@@ -1,0 +1,686 @@
+[
+  {
+    "search_metadata": {
+      "id": "680763c3497b68892d457e61",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/b53db92e199d4729/680763c3497b68892d457e61.json",
+      "created_at": "2025-04-22 09:39:15 UTC",
+      "processed_at": "2025-04-22 09:39:15 UTC",
+      "google_url": "https://www.google.com/search?q=Oanda&oq=Oanda&gl=sg&start=0&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/b53db92e199d4729/680763c3497b68892d457e61.html",
+      "total_time_taken": 2.17
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Oanda",
+      "google_domain": "google.com",
+      "gl": "sg",
+      "start": 0,
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Oanda",
+      "total_results": 9310000,
+      "time_taken_displayed": 0.33,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+      "title": "Oanda Corporation",
+      "type": "Foreign exchange corporation",
+      "entity_type": "related_questions",
+      "kgmid": "/m/0dqg2p",
+      "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0dqg2p&hl=en-SG&q=Oanda+Corporation",
+      "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en-SG&kgmid=%2Fm%2F0dqg2p&q=Oanda+Corporation&start=0",
+      "image": "https://serpapi.com/searches/680763c3497b68892d457e61/images/e4263021f17f27220373d61fa830eb5ec80d0710198ba312.png",
+      "customer_service": "6579 8289",
+      "founders": "Michael Stumm, Richard Olsen",
+      "founders_links": [
+        {
+          "text": "Michael Stumm",
+          "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=Michael+Stumm&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh1LtQZ2pT1oIWTRfcWga5uD7co2svgDqp15wQF-LOrK_9S_V94pkiNd4b2IRYhXd16dZGA-8lOMLzWsp-04aV3QAKCKgfgwSErXnuONfgSx51AMHRzxjLRhxZ18NwKckX98cbcDjOlFCsYtjeMlxa22zibYmg1hNkhQqduEK18bqFMPbzSk4HygB4cXOBpknDli0DA1Eej--SwTfI7uit5YJC63Co7GHq_5MHrTxwFxufecbKQ%3D%3D&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQmxMoAHoECDsQAg"
+        },
+        {
+          "text": "Richard Olsen",
+          "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=Richard+Olsen&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2USW7rwG7IDvalKqnwZdT3nTq2CPBOa19mBQH8EYOgU0HxB0FunzMRHk1W24Uzb0a6ZJHrf_RLHMzA-PKRFboeyTY8k9_xW8SoErS9hx9W3ZKlT13G3_uN-_6PIV-1jWO4BQ8hgOLOLfsqdXNYe75cCX0-3XcvfJwHG2dXcm58HyW78riWQJcHjKi3XQb_mupwnMyFJA5CL_EukwvBkycbAXCkTHh0SGy3kv40mhAgIbLbZRA%3D%3D&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQmxMoAXoECDsQAw"
+        }
+      ],
+      "ceo": "Gavin Bambury (26 Aug 2019–)",
+      "ceo_links": [
+        {
+          "text": "Gavin Bambury",
+          "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=Gavin+Bambury&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh57RdxfYeqiHpxpXejxC9zZNDvbQU9NBh-q9V64UYUhijtUZksiOCm7DTsxdLL9EjRk2uHs20MCEQ2wzV6kxsW2IS4O0ItEPhswz9LGc8q10epygLnjUfjwKtgWxPzB0gCvNgcxQWLTwILUy1jikErDGIp-vli1xAhbgSYzzJJres_RJkw%3D%3D&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQmxMoAHoECDoQAg"
+        }
+      ],
+      "parent_organization": "OANDA Global Corporation",
+      "parent_organization_links": [
+        {
+          "text": "OANDA Global Corporation",
+          "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+Global+Corporation&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh0XnfwFqITP9EVAV55aX8C4kpuSH5kViQ1r90roUMBotzoGFahBWB84epU3Fb4Y7ugJmuG6Qp4_J-qh6tsj6uvO1A8GMdALV5BKH7uxC6RJ5CWrsPW1xStw1CMTNjwO403ShQARtOJg53xlCl1E7YYhMgqVq0vWTQ2SrwDU5HumcZ1cvlkDK96oEoEYqHKoWr_Bj_AE%3D&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQmxMoAHoECD4QAg"
+        }
+      ],
+      "headquarters": "New York, New York, United States",
+      "headquarters_links": [
+        {
+          "text": "New York, New York, United States",
+          "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=New+York&si=APYL9btMsmZl0P9CyeA1NmMZFYv4xkDb-_Q4WCJadY9pxozSRcRkestm02U4wDIrIInizYCalbKY3LfV-Le3GAydvWZrNU2fNJztFjUeFwTmvkGPO5NwWevUsido95lnV5H7Lhgi2dRukrpXJhLUTz6pv7bdYMaklomZ1ch2zc1jz9ktMLNVV-bspTE-sXU613sCCfs9lpln&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQmxMoAHoECDgQAg"
+        }
+      ],
+      "founded": "1996"
+    },
+    "related_questions": [
+      {
+        "question": "Is OANDA regulated in Singapore?",
+        "snippet": "Excellent service from a local CFD broker for over 10 years We are a MAS-regulated local broker, offering market-leading spreads, local, award-winning client support and dedicated relationship managersǂ.",
+        "title": "Account comparison | Start Forex CFD Trading | OANDA | Singapore",
+        "link": "https://www.oanda.com/sg-en/trading/account-comparison/#:~:text=Excellent%20service%20from%20a%20local,and%20dedicated%20relationship%20managers%C7%82.",
+        "displayed_link": "https://www.oanda.com › sg-en › account-comparison",
+        "source_logo": "https://serpapi.com/searches/680763c3497b68892d457e61/images/255dbb3925a5c4e93b8d1e16ae7ca5e505ccc0a56e5b02b45d36f4a693ff927b.png",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobE1uaDNhM2t0UVdwR2FXODFTRE5LUVY5T05VUjJiRlYwWjJKa1QwNUhMVjlKWlUxZmMzUkZaRmg2Y25aelJWbGxTWFp5V1hwWlFqRmFZbWhQZHpBdFFrSkhhbGhEVkdsWWFXMWtiR2d5TjBsVUxWTkdVa2RCVldKNlFSSVhlRmROU0dGTk4yZERMWEpsZDA0MFVEQTRkbXA1UVUwYUlrRkRSRmhNTkc1eVgxWnpTamRUWVhGSGJYSm1SMDA1YmpRM1JsOVVaM1JMWTFFIiwiZmN2IjoiMyIsImVpIjoieFdNSGFNN2dDLXJld040UDA4dmp5QU0iLCJxYyI6IkNnVnZZVzVrWVJBQWZjVjhNajgiLCJxdWVzdGlvbiI6IklzIE9BTkRBIHJlZ3VsYXRlZCBpbiBTaW5nYXBvcmU/IiwibGsiOiJHaDlwY3lCdllXNWtZU0J5WldkMWJHRjBaV1FnYVc0Z2MybHVaMkZ3YjNKbCIsImJzIjoiYy1QeTRGTHdMRmJ3ZF9SemNWUW9TazB2elVrc1NVMVJ5TXhUQ003TVMwOHN5QzlLdFpjNEttV2tLQ1dmV2F5UW41aVhrb2lxckJpbWpNdUNTd0p1VXFKQ1RtcDZab2xDVWxGLWRtcVJ2Y1IzZnlOSktYRzRDYWpTWExaY011RVptY2taQ3NuNXBYa2xSWlVLbVRCejBvcnljLTBsYnVvWlNVbEpRTFNDUkJUS2tWVUxNQUlBIiwiaWQiOiJmY194V01IYU03Z0MtcmV3TjRQMDh2anlBTV8xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobE1uaDNhM2t0UVdwR2FXODFTRE5LUVY5T05VUjJiRlYwWjJKa1QwNUhMVjlKWlUxZmMzUkZaRmg2Y25aelJWbGxTWFp5V1hwWlFqRmFZbWhQZHpBdFFrSkhhbGhEVkdsWWFXMWtiR2d5TjBsVUxWTkdVa2RCVldKNlFSSVhlRmROU0dGTk4yZERMWEpsZDA0MFVEQTRkbXA1UVUwYUlrRkRSRmhNTkc1eVgxWnpTamRUWVhGSGJYSm1SMDA1YmpRM1JsOVVaM1JMWTFFIiwiZmN2IjoiMyIsImVpIjoieFdNSGFNN2dDLXJld040UDA4dmp5QU0iLCJxYyI6IkNnVnZZVzVrWVJBQWZjVjhNajgiLCJxdWVzdGlvbiI6IklzIE9BTkRBIHJlZ3VsYXRlZCBpbiBTaW5nYXBvcmU%2FIiwibGsiOiJHaDlwY3lCdllXNWtZU0J5WldkMWJHRjBaV1FnYVc0Z2MybHVaMkZ3YjNKbCIsImJzIjoiYy1QeTRGTHdMRmJ3ZF9SemNWUW9TazB2elVrc1NVMVJ5TXhUQ003TVMwOHN5QzlLdFpjNEttV2tLQ1dmV2F5UW41aVhrb2lxckJpbWpNdUNTd0p1VXFKQ1RtcDZab2xDVWxGLWRtcVJ2Y1IzZnlOSktYRzRDYWpTWExaY011RVptY2taQ3NuNXBYa2xSWlVLbVRCejBvcnljLTBsYnVvWlNVbEpRTFNDUkJUS2tWVUxNQUlBIiwiaWQiOiJmY194V01IYU03Z0MtcmV3TjRQMDh2anlBTV8xIn0%3D"
+      },
+      {
+        "question": "Is OANDA a legit broker?",
+        "snippet": "Oanda is based in the USA and was founded in 1996. The longer track record a broker has, the more proof we have that it has successfully weathered previous financial crises. Oanda publishes its annual financial statements and is regulated by a top-tier regulator. All of these are great markers of Oanda's safety.",
+        "title": "Oanda Review 2025 - Pros & Cons - BrokerChooser",
+        "date": "28 Mar 2025",
+        "link": "https://brokerchooser.com/broker-reviews/oanda-review#:~:text=Oanda%20is%20based%20in%20the,great%20markers%20of%20Oanda's%20safety.",
+        "displayed_link": "https://brokerchooser.com › broker-reviews › oanda-revi...",
+        "source_logo": "https://serpapi.com/searches/680763c3497b68892d457e61/images/255dbb3925a5c4e93b8d1e16ae7ca5e52fb09f97c97f31a75cabb5bb6c67fd68.png",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobE1uaDNhM2t0UVdwR2FXODFTRE5LUVY5T05VUjJiRlYwWjJKa1QwNUhMVjlKWlUxZmMzUkZaRmg2Y25aelJWbGxTWFp5V1hwWlFqRmFZbWhQZHpBdFFrSkhhbGhEVkdsWWFXMWtiR2d5TjBsVUxWTkdVa2RCVldKNlFSSVhlRmROU0dGTk4yZERMWEpsZDA0MFVEQTRkbXA1UVUwYUlrRkRSRmhNTkc1eVgxWnpTamRUWVhGSGJYSm1SMDA1YmpRM1JsOVVaM1JMWTFFIiwiZmN2IjoiMyIsImVpIjoieFdNSGFNN2dDLXJld040UDA4dmp5QU0iLCJxYyI6IkNnVnZZVzVrWVJBQWZjVjhNajgiLCJxdWVzdGlvbiI6IklzIE9BTkRBIGEgbGVnaXQgYnJva2VyPyIsImxrIjoiR2hkcGN5QnZZVzVrWVNCaElHeGxaMmwwSUdKeWIydGxjZyIsImJzIjoiYy1QeTRGTHdMRmJ3ZF9SemNWUW9TazB2elVrc1NVMVJ5TXhUQ003TVMwOHN5QzlLdFpjNEttV2tLQ1dmV2F5UW41aVhrb2lxckJpbWpNdUNTd0p1VXFKQ1RtcDZab2xDVWxGLWRtcVJ2Y1IzZnlOSktYRzRDYWpTWExaY011RVptY2taQ3NuNXBYa2xSWlVLbVRCejBvcnljLTBsYnVvWlNVbEpRTFNDUkJUS2tWVUxNQUlBIiwiaWQiOiJmY194V01IYU03Z0MtcmV3TjRQMDh2anlBTV8xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobE1uaDNhM2t0UVdwR2FXODFTRE5LUVY5T05VUjJiRlYwWjJKa1QwNUhMVjlKWlUxZmMzUkZaRmg2Y25aelJWbGxTWFp5V1hwWlFqRmFZbWhQZHpBdFFrSkhhbGhEVkdsWWFXMWtiR2d5TjBsVUxWTkdVa2RCVldKNlFSSVhlRmROU0dGTk4yZERMWEpsZDA0MFVEQTRkbXA1UVUwYUlrRkRSRmhNTkc1eVgxWnpTamRUWVhGSGJYSm1SMDA1YmpRM1JsOVVaM1JMWTFFIiwiZmN2IjoiMyIsImVpIjoieFdNSGFNN2dDLXJld040UDA4dmp5QU0iLCJxYyI6IkNnVnZZVzVrWVJBQWZjVjhNajgiLCJxdWVzdGlvbiI6IklzIE9BTkRBIGEgbGVnaXQgYnJva2VyPyIsImxrIjoiR2hkcGN5QnZZVzVrWVNCaElHeGxaMmwwSUdKeWIydGxjZyIsImJzIjoiYy1QeTRGTHdMRmJ3ZF9SemNWUW9TazB2elVrc1NVMVJ5TXhUQ003TVMwOHN5QzlLdFpjNEttV2tLQ1dmV2F5UW41aVhrb2lxckJpbWpNdUNTd0p1VXFKQ1RtcDZab2xDVWxGLWRtcVJ2Y1IzZnlOSktYRzRDYWpTWExaY011RVptY2taQ3NuNXBYa2xSWlVLbVRCejBvcnljLTBsYnVvWlNVbEpRTFNDUkJUS2tWVUxNQUlBIiwiaWQiOiJmY194V01IYU03Z0MtcmV3TjRQMDh2anlBTV8xIn0%3D"
+      },
+      {
+        "question": "Which country is OANDA from?",
+        "snippet": "OANDA Coinpass Limited (trading as OANDA Crypto) is a company registered in England number 11164834, and has its registered office at Dashwood House, 64 Old Broad Street, London EC2M 1QS. OANDA Business Information and Services Inc.",
+        "title": "England",
+        "link": "https://www.oanda.com/group/about-us/history/#:~:text=OANDA%20Coinpass%20Limited%20(trading%20as,Business%20Information%20and%20Services%20Inc.",
+        "displayed_link": "https://www.oanda.com › group › about-us › history",
+        "source_logo": "https://serpapi.com/searches/680763c3497b68892d457e61/images/255dbb3925a5c4e93b8d1e16ae7ca5e5381e98bf09bd59a383e7a6b31e9c65ed.png",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobE1uaDNhM2t0UVdwR2FXODFTRE5LUVY5T05VUjJiRlYwWjJKa1QwNUhMVjlKWlUxZmMzUkZaRmg2Y25aelJWbGxTWFp5V1hwWlFqRmFZbWhQZHpBdFFrSkhhbGhEVkdsWWFXMWtiR2d5TjBsVUxWTkdVa2RCVldKNlFSSVhlRmROU0dGTk4yZERMWEpsZDA0MFVEQTRkbXA1UVUwYUlrRkRSRmhNTkc1eVgxWnpTamRUWVhGSGJYSm1SMDA1YmpRM1JsOVVaM1JMWTFFIiwiZmN2IjoiMyIsImVpIjoieFdNSGFNN2dDLXJld040UDA4dmp5QU0iLCJxYyI6IkNnVnZZVzVrWVJBQWZjVjhNajgiLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cnkgaXMgT0FOREEgZnJvbT8iLCJsayI6IkdoaHZZVzVrWVNCbWNtOXRJSGRvYVdOb0lHTnZkVzUwY25rIiwiYnMiOiJjLVB5NEZMd0xGYndkX1J6Y1ZRb1NrMHZ6VWtzU1UxUnlNeFRDTTdNUzA4c3lDOUt0WmM0S21Xa0tDV2ZXYXlRbjVpWGtvaXFyQmltak11Q1N3SnVVcUpDVG1wNlpvbENVbEYtZG1xUnZjUjNmeU5KS1hHNENhalNYTFpjTXVFWm1ja1pDc241cFhrbFJaVUttVEJ6MG9yeWMtMGxidW9aU1VsSlFMU0NSQlRLa1ZVTE1BSUEiLCJpZCI6ImZjX3hXTUhhTTdnQy1yZXdONFAwOHZqeUFNXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobE1uaDNhM2t0UVdwR2FXODFTRE5LUVY5T05VUjJiRlYwWjJKa1QwNUhMVjlKWlUxZmMzUkZaRmg2Y25aelJWbGxTWFp5V1hwWlFqRmFZbWhQZHpBdFFrSkhhbGhEVkdsWWFXMWtiR2d5TjBsVUxWTkdVa2RCVldKNlFSSVhlRmROU0dGTk4yZERMWEpsZDA0MFVEQTRkbXA1UVUwYUlrRkRSRmhNTkc1eVgxWnpTamRUWVhGSGJYSm1SMDA1YmpRM1JsOVVaM1JMWTFFIiwiZmN2IjoiMyIsImVpIjoieFdNSGFNN2dDLXJld040UDA4dmp5QU0iLCJxYyI6IkNnVnZZVzVrWVJBQWZjVjhNajgiLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cnkgaXMgT0FOREEgZnJvbT8iLCJsayI6IkdoaHZZVzVrWVNCbWNtOXRJSGRvYVdOb0lHTnZkVzUwY25rIiwiYnMiOiJjLVB5NEZMd0xGYndkX1J6Y1ZRb1NrMHZ6VWtzU1UxUnlNeFRDTTdNUzA4c3lDOUt0WmM0S21Xa0tDV2ZXYXlRbjVpWGtvaXFyQmltak11Q1N3SnVVcUpDVG1wNlpvbENVbEYtZG1xUnZjUjNmeU5KS1hHNENhalNYTFpjTXVFWm1ja1pDc241cFhrbFJaVUttVEJ6MG9yeWMtMGxidW9aU1VsSlFMU0NSQlRLa1ZVTE1BSUEiLCJpZCI6ImZjX3hXTUhhTTdnQy1yZXdONFAwOHZqeUFNXzEifQ%3D%3D"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Currency Converter | Foreign Exchange Rates",
+        "link": "https://www.oanda.com/currency-converter/en/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/currency-converter/en/&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQFnoECA0QAQ",
+        "displayed_link": "https://www.oanda.com › currency-converter",
+        "favicon": "https://serpapi.com/searches/680763c3497b68892d457e61/images/6f5b30654c6640e01db4aebc7885e7d1071bbdd1fdeaaf328084c03969775e5c.png",
+        "snippet": "OANDA's Currency Converter allows you to check the latest foreign exchange average bid/ask rates and convert all major world currencies. OANDA Rates™ are ...",
+        "snippet_highlighted_words": [
+          "OANDA's",
+          "OANDA"
+        ],
+        "sitelinks": {
+          "expanded": [
+            {
+              "title": "Currency Converter",
+              "link": "https://www.oanda.com/currency-converter/en/?amount=1&from=EUR&to=USD",
+              "snippet": ""
+            },
+            {
+              "title": "Live Exchange Rates",
+              "link": "https://www.oanda.com/currency-converter/live-exchange-rates/",
+              "snippet": "162. 05. 8. JPY/EUR. 0.00. 61. 7. 0.00. 61. 8. GBP/JPY. 188. 82. 2 ..."
+            },
+            {
+              "title": "Historical Currency Converter",
+              "link": "https://www.oanda.com/foreign-exchange-data-services/en/historical-currency-converter/",
+              "snippet": "OANDA Rate data is uploaded at 00:00 UTC daily (including ..."
+            },
+            {
+              "title": "INR | Indian Rupee",
+              "link": "https://www.oanda.com/currency-converter/en/currencies/majors/inr/",
+              "snippet": "INR. Description. The Indian rupee (INR) is the official currency of ..."
+            },
+            {
+              "title": "EUR | Euro",
+              "link": "https://www.oanda.com/currency-converter/en/currencies/majors/eur/",
+              "snippet": "The euro unofficially replaced the European currency unit in 1999 ..."
+            }
+          ]
+        },
+        "source": "Oanda"
+      },
+      {
+        "position": 2,
+        "title": "CFD Trading Platform | Forex CFD Trading | OANDA | Singapore",
+        "link": "https://www.oanda.com/sg-en/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/sg-en/&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQFnoECCIQAQ",
+        "displayed_link": "https://www.oanda.com › sg-en",
+        "favicon": "https://serpapi.com/searches/680763c3497b68892d457e61/images/6f5b30654c6640e01db4aebc7885e7d14045999836596e6e6631629c7a9c45ec.png",
+        "snippet": "OANDA Singapore provides CFD trading services on hundreds of forex, indices, and commodities instruments. We offer innovative trading platforms and ...",
+        "snippet_highlighted_words": [
+          "provides CFD trading services on hundreds of forex, indices, and commodities instruments"
+        ],
+        "source": "Oanda"
+      },
+      {
+        "position": 3,
+        "title": "Online Forex, Shares & Crypto CFD Trading Broker | OANDA",
+        "link": "https://www.oanda.com/eu-en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/eu-en&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQFnoECFYQAQ",
+        "displayed_link": "https://www.oanda.com › eu-en",
+        "favicon": "https://serpapi.com/searches/680763c3497b68892d457e61/images/6f5b30654c6640e01db4aebc7885e7d104ccd5c8295e30769b3cc0b3405ae039.png",
+        "snippet": "Trade and invest · Trusted, market-leading, global broker. · Thousands of global instruments on your smartphone.",
+        "snippet_highlighted_words": [
+          "Trusted, market-leading, global broker"
+        ],
+        "source": "Oanda"
+      },
+      {
+        "position": 4,
+        "title": "Open a Forex Account",
+        "link": "https://www.oanda.com/apply/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/apply/&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQFnoECFUQAQ",
+        "displayed_link": "https://www.oanda.com › apply",
+        "favicon": "https://serpapi.com/searches/680763c3497b68892d457e61/images/6f5b30654c6640e01db4aebc7885e7d11d0117258869bf2a534a68db1f7fd833.png",
+        "snippet": "Let's create a trading account for you. When you open a live account - a demo account will be automatically created for you. Complete the form in 5 mins. Ready ...",
+        "snippet_highlighted_words": [
+          "Let's create a trading account for you"
+        ],
+        "source": "Oanda"
+      },
+      {
+        "position": 5,
+        "title": "Group | Financial Trading | Currency Data & Analytics ...",
+        "link": "https://www.oanda.com/group/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/group/&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQFnoECFEQAQ",
+        "displayed_link": "https://www.oanda.com › group",
+        "favicon": "https://serpapi.com/searches/680763c3497b68892d457e61/images/6f5b30654c6640e01db4aebc7885e7d10c50b2128d273934e1c319f6ca937a94.png",
+        "snippet": "OANDA would like to be your financial partner and help you to grow your wealth. We are a leader in currency data, offering forex and CFD trading, ...",
+        "snippet_highlighted_words": [
+          "OANDA would like to be your financial partner"
+        ],
+        "source": "Oanda"
+      },
+      {
+        "position": 6,
+        "title": "Online Forex Trading Platforms",
+        "link": "https://www.oanda.com/us-en/trading/platforms/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/us-en/trading/platforms/&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQFnoECE0QAQ",
+        "displayed_link": "https://www.oanda.com › us-en › trading › platforms",
+        "favicon": "https://serpapi.com/searches/680763c3497b68892d457e61/images/6f5b30654c6640e01db4aebc7885e7d18f84234d3f69730d9a97d8b538cf1d7b.png",
+        "snippet": "We offer over 68 major and minor currency pairs, a user-friendly app and a range of trading platforms, including OANDA Trade and MT4.",
+        "snippet_highlighted_words": [
+          "OANDA Trade"
+        ],
+        "source": "Oanda"
+      },
+      {
+        "position": 7,
+        "title": "CFD Trading Online | OANDA | Singapore",
+        "link": "https://www.oanda.com/sg-en/trading/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/sg-en/trading/&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQFnoECFcQAQ",
+        "displayed_link": "https://www.oanda.com › sg-en › trading",
+        "favicon": "https://serpapi.com/searches/680763c3497b68892d457e61/images/6f5b30654c6640e01db4aebc7885e7d106df00ae662c769337dec46a26fe0db6.png",
+        "snippet": "Trade CFD with OANDA, a global leader in trading solutions. Access our award-winning platforms, competitive spreads, & experienced support.",
+        "snippet_highlighted_words": [
+          "global leader in trading solutions"
+        ],
+        "source": "Oanda"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "items": [
+          {
+            "name": "OANDA ‑ Forex and CFD trading",
+            "image": "https://serpapi.com/searches/680763c3497b68892d457e61/images/255dbb3925a5c4e91e014ca6bf0b9f82441a306f7dca03e2dfd54b54dcb40beb5244143a80bffb7d.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+-+Forex+and+CFD+trading&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMw2NqwqrzTP-MXIsIGF4RULPxeqOEIkIzclPSctLekVCw8Xl36uvoFlmWFZNpKCbLMKC3OLnCokkapCo7zCwmKESHFlmUG5cWEyQqSo3DLJKKukGMXq-DKjvDQkXYXx5slFBjkoJhtU5eUWLGKV9Xf0c3FU0FVwyy9KrVBIzEtRcHZzUSgpSkzJzEu_xSbJEOYX_jlxxmG2d_uq0ooTFLk0Z0U_OnDPat0iDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAM6XSU8gAQAA&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQs9oBKAB6BAhdEAk",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+-+Forex+and+CFD+trading&start=0&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMw2NqwqrzTP-MXIsIGF4RULPxeqOEIkIzclPSctLekVCw8Xl36uvoFlmWFZNpKCbLMKC3OLnCokkapCo7zCwmKESHFlmUG5cWEyQqSo3DLJKKukGMXq-DKjvDQkXYXx5slFBjkoJhtU5eUWLGKV9Xf0c3FU0FVwyy9KrVBIzEtRcHZzUSgpSkzJzEu_xSbJEOYX_jlxxmG2d_uq0ooTFLk0Z0U_OnDPat0iDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAM6XSU8gAQAA"
+          },
+          {
+            "name": "MetaTrader 5",
+            "image": "https://serpapi.com/searches/680763c3497b68892d457e61/images/255dbb3925a5c4e91e014ca6bf0b9f82441a306f7dca03e20fba2c563489ce51e1ae4c540b986c95.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=MetaTrader+5&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMzITUnPSUtL-sXIsIGF4RULPxdEPNvYsKq80jwDIQJT-YqFh4tLP1ffwLLMsCwbSUG2WYWFuUVOFZJIVaFRXmFhMUKkuLLMoNy4MBkhUlRumWSUVVKMYnV8mVFeGpKuwnjz5CKDHBSTDarycgsWsfL4ppYkhhQlpqQWKZjeYpNkCPML_5w44zDbu31VacUJilyas6IfHbhntW4Rh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAIau5GwPAQAA&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQs9oBKAB6BAhdEA4",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=MetaTrader+5&start=0&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMzITUnPSUtL-sXIsIGF4RULPxdEPNvYsKq80jwDIQJT-YqFh4tLP1ffwLLMsCwbSUG2WYWFuUVOFZJIVaFRXmFhMUKkuLLMoNy4MBkhUlRumWSUVVKMYnV8mVFeGpKuwnjz5CKDHBSTDarycgsWsfL4ppYkhhQlpqQWKZjeYpNkCPML_5w44zDbu31VacUJilyas6IfHbhntW4Rh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAIau5GwPAQAA"
+          },
+          {
+            "name": "MetaTrader 4",
+            "image": "https://serpapi.com/searches/680763c3497b68892d457e61/images/255dbb3925a5c4e91e014ca6bf0b9f82441a306f7dca03e27e4651e6c4a6b4fccbfab53b531c5596.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=MetaTrader+4&stick=H4sIAAAAAAAAAOMwVOLSz9U3sCwzLMvO-MXIsIGF4RULPxevfrq-oWG2sWFVeaV5BkIkIzclPSctLekVCw8XkkYkLWYVFuYWOVVIIlWFRnmFhcUIkeLKMoNy48JkhEhRuWWSUVZJMYrV8WVGeWlIugrjzZOLDHJQTDaoysstWMTK45takhhSlJiSWqRgcotNkiHML_xz4ozDbO_2VaUVJyhyac6KfnTgntW6RRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAGbgICkDAEAAA&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQs9oBKAB6BAhdEBM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=MetaTrader+4&start=0&stick=H4sIAAAAAAAAAOMwVOLSz9U3sCwzLMvO-MXIsIGF4RULPxevfrq-oWG2sWFVeaV5BkIkIzclPSctLekVCw8XkkYkLWYVFuYWOVVIIlWFRnmFhcUIkeLKMoNy48JkhEhRuWWSUVZJMYrV8WVGeWlIugrjzZOLDHJQTDaoysstWMTK45takhhSlJiSWqRgcotNkiHML_xz4ozDbO_2VaUVJyhyac6KfnTgntW6RRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAGbgICkDAEAAA"
+          },
+          {
+            "name": "MEXEM",
+            "image": "https://serpapi.com/searches/680763c3497b68892d457e61/images/255dbb3925a5c4e91e014ca6bf0b9f82441a306f7dca03e2c07a75d1e34567e157f10fd0be6dc786.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=MEXEM&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMw2q7Awt8ip-sXIsIGF4RULPxdU3NiwqrzSPAMhkpGbkp6Tlpb0ioWHi0s_V9_AssywLBtJAcwoJJGqQqO8wsJihEhxZZlBuXFhMkKkqNwyySirpBjF6vgyo7w0JF2F8ebJRQY5KCYbVOXlFixiZfV1jXD1vcUmyRDmF_45ccZhtnf7qtKKExS5NGdFPzpwz2rdIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjADxrCM8CAEAAA&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQs9oBKAB6BAhdEBg",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=MEXEM&start=0&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMw2q7Awt8ip-sXIsIGF4RULPxdU3NiwqrzSPAMhkpGbkp6Tlpb0ioWHi0s_V9_AssywLBtJAcwoJJGqQqO8wsJihEhxZZlBuXFhMkKkqNwyySirpBjF6vgyo7w0JF2F8ebJRQY5KCYbVOXlFixiZfV1jXD1vcUmyRDmF_45ccZhtnf7qtKKExS5NGdFPzpwz2rdIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjADxrCM8CAEAAA"
+          },
+          {
+            "name": "XTB Online Investing",
+            "image": "https://serpapi.com/searches/680763c3497b68892d457e61/images/255dbb3925a5c4e91e014ca6bf0b9f82441a306f7dca03e2f8ad9cba02de05347605b1cef7968f47.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=XTB+Online+Investing&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMyuKjTKKyws_sXIsIGF4RULPxdU3NiwqrzSPAMhkpGbkp6Tlpb0ioWHi0s_V9_AssywLBtJQbZZhYW5RU4VkgjUcIRIcWWZQblxYTJCpKjcMskoq6QYxer4MqO8NCRdhfHmyUUGOSgmG1Tl5RYsYhWJCHFS8M_LycxLVfDMK0stLsnMS7_FJskQ5hf-OXHGYbZ3-6rSihMUuTRnRT86cM9q3SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwAFNLNHBcBAAA&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQs9oBKAB6BAhdEB0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=XTB+Online+Investing&start=0&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMyuKjTKKyws_sXIsIGF4RULPxdU3NiwqrzSPAMhkpGbkp6Tlpb0ioWHi0s_V9_AssywLBtJQbZZhYW5RU4VkgjUcIRIcWWZQblxYTJCpKjcMskoq6QYxer4MqO8NCRdhfHmyUUGOSgmG1Tl5RYsYhWJCHFS8M_LycxLVfDMK0stLsnMS7_FJskQ5hf-OXHGYbZ3-6rSihMUuTRnRT86cM9q3SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwAFNLNHBcBAAA"
+          },
+          {
+            "name": "TradeZero",
+            "image": "https://serpapi.com/searches/680763c3497b68892d457e61/images/255dbb3925a5c4e91e014ca6bf0b9f82441a306f7dca03e2277c77257cc6f3629c4f4c19c92601ba.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TradeZero&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCyuLDMoNy5M_sXIsIGF4RULPxdEPNvYsKq80jwDIZKRm5Kek5aW9IqFh4tLP1ffwLLMsCwbSUG2WYWFuUVOFZJIVaFRXmFhMUIEZh1CpKjcMskoq6QYxer4MqO8NCRdhfHmyUUGOSgmG1Tl5RYsYuUMKUpMSY1KLcq_xSbJEOYX_jlxxmG2d_uq0ooTFLk0Z0U_OnDPat0iDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMANLRMkcMAQAA&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQs9oBKAB6BAhdECI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TradeZero&start=0&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCyuLDMoNy5M_sXIsIGF4RULPxdEPNvYsKq80jwDIZKRm5Kek5aW9IqFh4tLP1ffwLLMsCwbSUG2WYWFuUVOFZJIVaFRXmFhMUIEZh1CpKjcMskoq6QYxer4MqO8NCRdhfHmyUUGOSgmG1Tl5RYsYuUMKUpMSY1KLcq_xSbJEOYX_jlxxmG2d_uq0ooTFLk0Z0U_OnDPat0iDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMANLRMkcMAQAA"
+          }
+        ]
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA Currency Converter",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+Currency+Converter&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ1QJ6BAhgEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+Currency+Converter&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA sign in",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+sign+in&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ1QJ6BAhfEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+sign+in&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA broker",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+broker&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ1QJ6BAheEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+broker&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA sign up",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+sign+up&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ1QJ6BAhbEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+sign+up&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA Historical rates",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+Historical+rates&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ1QJ6BAhcEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+Historical+rates&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA demo account",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+demo+account&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ1QJ6BAhaEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+demo+account&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA trading",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+trading&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ1QJ6BAhZEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+trading&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA forex",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+forex&sa=X&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ1QJ6BAhYEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+forex&start=0"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=10&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8NMDegQIRhAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=10&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8tMDegQIRhAE",
+        "3": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=20&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8tMDegQIRhAG",
+        "4": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=30&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8tMDegQIRhAI",
+        "5": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=40&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8tMDegQIRhAK",
+        "6": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=50&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8tMDegQIRhAM",
+        "7": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=60&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8tMDegQIRhAO",
+        "8": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=70&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8tMDegQIRhAQ",
+        "9": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=80&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8tMDegQIRhAS",
+        "10": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xWMHaM7gC-rewN4P08vjyAM&start=90&sa=N&sstk=Af40H4XlmOOymlNHtm-yerU2SlWRWmZFx7y3fXmVyRj5Nmo0MOtXjH8sqkDeEqKL2R0vVzO4XUk36zYe0rboKfGkRGacDrOJmAPzpQ&ved=2ahUKEwiO1_6QrOuMAxVqL9AFHdPlGDkQ8tMDegQIRhAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=90"
+      }
+    }
+  },
+  {
+    "search_metadata": {
+      "id": "680763c6d37223ff33fa20ea",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/256f738dbb493dc6/680763c6d37223ff33fa20ea.json",
+      "created_at": "2025-04-22 09:39:18 UTC",
+      "processed_at": "2025-04-22 09:39:18 UTC",
+      "google_url": "https://www.google.com/search?q=Oanda&oq=Oanda&gl=sg&start=10&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/256f738dbb493dc6/680763c6d37223ff33fa20ea.html",
+      "total_time_taken": 0.81
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Oanda",
+      "google_domain": "google.com",
+      "gl": "sg",
+      "start": 10,
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Oanda",
+      "total_results": 9300000,
+      "page_number": 2,
+      "time_taken_displayed": 0.21,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+      "entity_type": "explore_universal"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "OANDA Online Trading Platform - Singapore",
+        "link": "https://www.moneysmart.sg/online-brokerage/oanda-trading-platform",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moneysmart.sg/online-brokerage/oanda-trading-platform&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQIFhAB",
+        "displayed_link": "https://www.moneysmart.sg › ... › OANDA",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e830256468aef08cd5b60e8b7b47b6a3c5c.png",
+        "snippet": "OANDA, also known as OANDA Asia Pacific Pte. Ltd., is a globally recognised online forex and CFD broker, offering competitive pricing and advanced trading ...",
+        "snippet_highlighted_words": [
+          "is a globally recognised online forex and CFD broker"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.0
+            },
+            "extensions": [
+              "4.0",
+              "Review by MoneySmart.sg"
+            ]
+          }
+        },
+        "source": "MoneySmart Singapore"
+      },
+      {
+        "position": 2,
+        "title": "Online Commodity CFD Trading",
+        "link": "https://www.oanda.com/bvi-en/cfds/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/bvi-en/cfds/&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQIEhAB",
+        "displayed_link": "https://www.oanda.com › bvi-en › cfds",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e83f5857afc393a716dffe0fe0a839b794b.png",
+        "snippet": "Choose from a range of CFD markets, including shares, indices, forex, gold, commodities and cryptocurrencies.Trade competitive spreads on major instruments such ...",
+        "snippet_highlighted_words": [
+          "Choose from a range of CFD markets"
+        ],
+        "source": "Oanda"
+      },
+      {
+        "position": 3,
+        "title": "OANDA - Forex trading on the App Store - Apple",
+        "link": "https://apps.apple.com/us/app/oanda-forex-trading/id370922777",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/oanda-forex-trading/id370922777&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQIHRAB",
+        "displayed_link": "https://apps.apple.com › app › oanda-forex-trading",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e83092f293054828c25b8d7fe03914f0bf2.png",
+        "snippet": "Get instant quotes and free charting on the OANDA forex trading app, with tight spreads and low commissions. Apply, fund, trade. Join other smart traders ...",
+        "snippet_highlighted_words": [
+          "Get instant quotes and free charting on the OANDA forex trading app"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "reviews": 20875
+            },
+            "extensions": [
+              "4.7(20,875)",
+              "Free",
+              "iOS",
+              "Finance"
+            ]
+          }
+        },
+        "source": "Apple"
+      },
+      {
+        "position": 4,
+        "title": "OANDA (@oanda) • Instagram photos and videos",
+        "link": "https://www.instagram.com/oanda/?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/oanda/%3Fhl%3Den&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQIFxAB",
+        "displayed_link": "28K+ followers",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e833b623c4c5f953e8164ae6706f6550ab4.png",
+        "snippet": "OANDA corporation is a trusted & award-winning provider of forex trading. Losses can exceed deposits. 135 West 41st Street, New York, New York 10036.",
+        "snippet_highlighted_words": [
+          "OANDA"
+        ],
+        "source": "Instagram · oanda"
+      },
+      {
+        "position": 5,
+        "title": "OANDA Prop Trader: Proprietary Trading Firm",
+        "link": "https://proptrader.oanda.com/en/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proptrader.oanda.com/en/&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQIFBAB",
+        "displayed_link": "https://proptrader.oanda.com › ...",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e83844fea6bdc074d68fab76e716bea04dd.png",
+        "snippet": "OANDA Prop Trader offers the opportunity for aspiring and experienced traders to trade using virtual funds and earn a real profit share up to 90%. What is prop ...",
+        "snippet_highlighted_words": [
+          "offers the opportunity for aspiring and experienced traders"
+        ],
+        "source": "OANDA Prop Trader"
+      },
+      {
+        "position": 6,
+        "title": "OANDA — Reviews and Terms",
+        "link": "https://www.tradingview.com/broker/OANDA/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tradingview.com/broker/OANDA/&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQIGRAB",
+        "displayed_link": "https://www.tradingview.com › broker › OANDA",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e838294e0f0cf5df4211f87a99cce2a389c.png",
+        "snippet": "Fully regulated, OANDA offers competitive spreads on 70 forex pairs, including all the majors and minors. Voted \"\"Most Popular Broker\"\" by TradingView three ...",
+        "snippet_highlighted_words": [
+          "competitive spreads on 70 forex pairs"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.5,
+              "reviews": 26245
+            },
+            "extensions": [
+              "4.5(26,245)"
+            ]
+          }
+        },
+        "source": "TradingView"
+      },
+      {
+        "position": 7,
+        "title": "Forex CFD Trading Cost | Trading Charges and Fees",
+        "link": "https://www.oanda.com/sg-en/trading/our-charges/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/sg-en/trading/our-charges/&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQIKxAB",
+        "displayed_link": "https://www.oanda.com › sg-en › trading › our-charges",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e83177af9abed70c21d6262e869e3b565c4.png",
+        "snippet": "Learn about OANDA's charges and fees before trading, so you'll know exactly how much you're paying when you trade with us.",
+        "snippet_highlighted_words": [
+          "Learn about OANDA's charges and fees"
+        ],
+        "source": "Oanda"
+      },
+      {
+        "position": 8,
+        "title": "OANDA - Forex and CFD trading – Apps on Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.oanda.fxtrade&hl=en_SG",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.oanda.fxtrade%26hl%3Den_SG&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQILxAB",
+        "displayed_link": "https://play.google.com › store › apps › details › id=com...",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e83eec929c27b405b6f52d14738acac1cc6.png",
+        "snippet": "Trade CFDs on major global instruments, including forex, indices and commodities.Start investing with OANDA, an award-winning global broker with experience ...",
+        "snippet_highlighted_words": [
+          "OANDA"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 6862
+            },
+            "extensions": [
+              "4.6(6,862)",
+              "Free",
+              "Android",
+              "Finance"
+            ]
+          }
+        },
+        "source": "Google Play"
+      },
+      {
+        "position": 9,
+        "title": "MarketPulse - The Beat of the Global Markets",
+        "link": "https://www.marketpulse.com/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marketpulse.com/&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQIKRAB",
+        "displayed_link": "https://www.marketpulse.com",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e8383d72f1ec2dfb987714baa18ec2297d5.png",
+        "snippet": "The Beat of the Global Markets. MarketPulse provides in-depth insights into major economic trends and events that impact the market, ...",
+        "snippet_highlighted_words": [
+          "provides in-depth insights into major economic trends and events"
+        ],
+        "source": "marketpulse.com"
+      },
+      {
+        "position": 10,
+        "title": "Our History | OANDA Up To Now",
+        "link": "https://www.oanda.com/group/about-us/history/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oanda.com/group/about-us/history/&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChAWegQILBAB",
+        "displayed_link": "https://www.oanda.com › group › about-us › history",
+        "favicon": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/9255aed20414b4d2d5d2480e6e900e83d3a3deebcfbce9fb6175f196d6ac69ea.png",
+        "snippet": "Learn about our history here at OANDA, a leader in currency data, offering forex and CFD trading, corporate FX payments and exchange rates services.",
+        "snippet_highlighted_words": [
+          "Learn about our history here at OANDA"
+        ],
+        "source": "Oanda"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "items": [
+          {
+            "name": "OANDA ‑ Forex and CFD trading",
+            "image": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/e68e3e36e59b0fe79feafcbe8a8b8dadd414b5e169b1f9985ef1c79270812d89f54e63724471e11c.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+-+Forex+and+CFD+trading&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMw2NqwqrzTP-MXIsIGF4RULPxeqOEIkIzclPSctLekVCw8Xl36uvoFlmWFZNpKCbLMKC3OLnCokkapCo7zCwmKESHFlmUG5cWEyQqSo3DLJKKukGMXq-DKjvDQkXYXx5slFBjkoJhtU5eUWLGKV9Xf0c3FU0FVwyy9KrVBIzEtRcHZzUSgpSkzJzEu_xSbJEOYX_jlxxmG2d_uq0ooTFLk0Z0U_OnDPat0iDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAM6XSU8gAQAA&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChCz2gEoAHoECCcQCQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+-+Forex+and+CFD+trading&start=10&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMw2NqwqrzTP-MXIsIGF4RULPxeqOEIkIzclPSctLekVCw8Xl36uvoFlmWFZNpKCbLMKC3OLnCokkapCo7zCwmKESHFlmUG5cWEyQqSo3DLJKKukGMXq-DKjvDQkXYXx5slFBjkoJhtU5eUWLGKV9Xf0c3FU0FVwyy9KrVBIzEtRcHZzUSgpSkzJzEu_xSbJEOYX_jlxxmG2d_uq0ooTFLk0Z0U_OnDPat0iDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAM6XSU8gAQAA"
+          },
+          {
+            "name": "MetaTrader 5",
+            "image": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/e68e3e36e59b0fe79feafcbe8a8b8dadd414b5e169b1f998a77046fecf5744a6240e4e9fd09548f3.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=MetaTrader+5&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMzITUnPSUtL-sXIsIGF4RULPxdEPNvYsKq80jwDIQJT-YqFh4tLP1ffwLLMsCwbSUG2WYWFuUVOFZJIVaFRXmFhMUKkuLLMoNy4MBkhUlRumWSUVVKMYnV8mVFeGpKuwnjz5CKDHBSTDarycgsWsfL4ppYkhhQlpqQWKZjeYpNkCPML_5w44zDbu31VacUJilyas6IfHbhntW4Rh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAIau5GwPAQAA&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChCz2gEoAHoECCcQDg",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=MetaTrader+5&start=10&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMzITUnPSUtL-sXIsIGF4RULPxdEPNvYsKq80jwDIQJT-YqFh4tLP1ffwLLMsCwbSUG2WYWFuUVOFZJIVaFRXmFhMUKkuLLMoNy4MBkhUlRumWSUVVKMYnV8mVFeGpKuwnjz5CKDHBSTDarycgsWsfL4ppYkhhQlpqQWKZjeYpNkCPML_5w44zDbu31VacUJilyas6IfHbhntW4Rh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAIau5GwPAQAA"
+          },
+          {
+            "name": "MetaTrader 4",
+            "image": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/e68e3e36e59b0fe79feafcbe8a8b8dadd414b5e169b1f998888a72a2edaf0285d725f1a619685e0a.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=MetaTrader+4&stick=H4sIAAAAAAAAAOMwVOLSz9U3sCwzLMvO-MXIsIGF4RULPxevfrq-oWG2sWFVeaV5BkIkIzclPSctLekVCw8XkkYkLWYVFuYWOVVIIlWFRnmFhcUIkeLKMoNy48JkhEhRuWWSUVZJMYrV8WVGeWlIugrjzZOLDHJQTDaoysstWMTK45takhhSlJiSWqRgcotNkiHML_xz4ozDbO_2VaUVJyhyac6KfnTgntW6RRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAGbgICkDAEAAA&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChCz2gEoAHoECCcQEw",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=MetaTrader+4&start=10&stick=H4sIAAAAAAAAAOMwVOLSz9U3sCwzLMvO-MXIsIGF4RULPxevfrq-oWG2sWFVeaV5BkIkIzclPSctLekVCw8XkkYkLWYVFuYWOVVIIlWFRnmFhcUIkeLKMoNy48JkhEhRuWWSUVZJMYrV8WVGeWlIugrjzZOLDHJQTDaoysstWMTK45takhhSlJiSWqRgcotNkiHML_xz4ozDbO_2VaUVJyhyac6KfnTgntW6RRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAGbgICkDAEAAA"
+          },
+          {
+            "name": "MEXEM",
+            "image": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/e68e3e36e59b0fe79feafcbe8a8b8dadd414b5e169b1f99834f2e9bf8907ffe73589f8f42e578910.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=MEXEM&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMw2q7Awt8ip-sXIsIGF4RULPxdU3NiwqrzSPAMhkpGbkp6Tlpb0ioWHi0s_V9_AssywLBtJAcwoJJGqQqO8wsJihEhxZZlBuXFhMkKkqNwyySirpBjF6vgyo7w0JF2F8ebJRQY5KCYbVOXlFixiZfV1jXD1vcUmyRDmF_45ccZhtnf7qtKKExS5NGdFPzpwz2rdIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjADxrCM8CAEAAA&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChCz2gEoAHoECCcQGA",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=MEXEM&start=10&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMw2q7Awt8ip-sXIsIGF4RULPxdU3NiwqrzSPAMhkpGbkp6Tlpb0ioWHi0s_V9_AssywLBtJAcwoJJGqQqO8wsJihEhxZZlBuXFhMkKkqNwyySirpBjF6vgyo7w0JF2F8ebJRQY5KCYbVOXlFixiZfV1jXD1vcUmyRDmF_45ccZhtnf7qtKKExS5NGdFPzpwz2rdIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjADxrCM8CAEAAA"
+          },
+          {
+            "name": "XTB Online Investing",
+            "image": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/e68e3e36e59b0fe79feafcbe8a8b8dadd414b5e169b1f998dad08e1166320d24ec8bc1e9dfc1e8f5.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=XTB+Online+Investing&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMyuKjTKKyws_sXIsIGF4RULPxdU3NiwqrzSPAMhkpGbkp6Tlpb0ioWHi0s_V9_AssywLBtJQbZZhYW5RU4VkgjUcIRIcWWZQblxYTJCpKjcMskoq6QYxer4MqO8NCRdhfHmyUUGOSgmG1Tl5RYsYhWJCHFS8M_LycxLVfDMK0stLsnMS7_FJskQ5hf-OXHGYbZ3-6rSihMUuTRnRT86cM9q3SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwAFNLNHBcBAAA&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChCz2gEoAHoECCcQHQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=XTB+Online+Investing&start=10&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMyuKjTKKyws_sXIsIGF4RULPxdU3NiwqrzSPAMhkpGbkp6Tlpb0ioWHi0s_V9_AssywLBtJQbZZhYW5RU4VkgjUcIRIcWWZQblxYTJCpKjcMskoq6QYxer4MqO8NCRdhfHmyUUGOSgmG1Tl5RYsYhWJCHFS8M_LycxLVfDMK0stLsnMS7_FJskQ5hf-OXHGYbZ3-6rSihMUuTRnRT86cM9q3SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwAFNLNHBcBAAA"
+          },
+          {
+            "name": "TradeZero",
+            "image": "https://serpapi.com/searches/680763c6d37223ff33fa20ea/images/e68e3e36e59b0fe79feafcbe8a8b8dadd414b5e169b1f99801ed5bc8502987c3801ea37c7b52e882.gif",
+            "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TradeZero&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCyuLDMoNy5M_sXIsIGF4RULPxdEPNvYsKq80jwDIZKRm5Kek5aW9IqFh4tLP1ffwLLMsCwbSUG2WYWFuUVOFZJIVaFRXmFhMUIEZh1CpKjcMskoq6QYxer4MqO8NCRdhfHmyUUGOSgmG1Tl5RYsYuUMKUpMSY1KLcq_xSbJEOYX_jlxxmG2d_uq0ooTFLk0Z0U_OnDPat0iDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMANLRMkcMAQAA&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChCz2gEoAHoECCcQIg",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TradeZero&start=10&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCyuLDMoNy5M_sXIsIGF4RULPxdEPNvYsKq80jwDIZKRm5Kek5aW9IqFh4tLP1ffwLLMsCwbSUG2WYWFuUVOFZJIVaFRXmFhMUIEZh1CpKjcMskoq6QYxer4MqO8NCRdhfHmyUUGOSgmG1Tl5RYsYuUMKUpMSY1KLcq_xSbJEOYX_jlxxmG2d_uq0ooTFLk0Z0U_OnDPat0iDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMANLRMkcMAQAA"
+          }
+        ]
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA Currency Converter",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+Currency+Converter&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDVAnoECDIQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+Currency+Converter&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA sign in",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+sign+in&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDVAnoECCoQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+sign+in&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA broker",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+broker&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDVAnoECC4QAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+broker&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA sign up",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+sign+up&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDVAnoECDUQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+sign+up&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA Historical rates",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+Historical+rates&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDVAnoECDMQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+Historical+rates&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA demo account",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+demo+account&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDVAnoECDAQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+demo+account&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA trading",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+trading&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDVAnoECDEQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+trading&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "OANDA forex",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=OANDA+forex&sa=X&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDVAnoECC0QAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=OANDA+forex&start=10"
+      }
+    ],
+    "pagination": {
+      "current": 2,
+      "previous": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=0&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDx0wN6BAgIEAI",
+      "next": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=20&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDw0wN6BAgIEBc",
+      "other_pages": {
+        "1": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=0&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDy0wN6BAgIEAQ",
+        "3": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=20&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDy0wN6BAgIEAc",
+        "4": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=30&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDy0wN6BAgIEAk",
+        "5": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=40&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDy0wN6BAgIEAs",
+        "6": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=50&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDy0wN6BAgIEA0",
+        "7": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=60&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDy0wN6BAgIEA8",
+        "8": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=70&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDy0wN6BAgIEBE",
+        "9": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=80&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDy0wN6BAgIEBM",
+        "10": "https://www.google.com/search?q=Oanda&sca_esv=0d5b412c1151c0c6&gl=sg&ei=xmMHaOSyOsmgptQP8oyVqA4&start=90&sa=N&ved=2ahUKEwjkreqRrOuMAxVJkIkEHXJGBeU4ChDy0wN6BAgIEBU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 2,
+      "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=0",
+      "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=0",
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=20",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=20",
+      "other_pages": {
+        "1": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=0",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Oanda&start=90"
+      }
+    }
+  }
+]

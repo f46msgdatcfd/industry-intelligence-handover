@@ -1,0 +1,567 @@
+[
+  {
+    "search_metadata": {
+      "id": "680763c805a96bfed243b66d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/fb6877cd3751b739/680763c805a96bfed243b66d.json",
+      "created_at": "2025-04-22 09:39:20 UTC",
+      "processed_at": "2025-04-22 09:39:20 UTC",
+      "google_url": "https://www.google.com/search?q=TioMarkets&oq=TioMarkets&gl=sg&start=0&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/fb6877cd3751b739/680763c805a96bfed243b66d.html",
+      "total_time_taken": 8.7
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "TioMarkets",
+      "google_domain": "google.com",
+      "gl": "sg",
+      "start": 0,
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "TioMarkets",
+      "total_results": 50700,
+      "time_taken_displayed": 0.26,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+      "title": "TIO Markets",
+      "thumbnail": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/a1e4e83dcc42914265d01d06d28950271bb1f10fd660faa876a2063bfbf943f2.jpeg",
+      "type": "Corporate office in Agios Athanasios, Cyprus",
+      "entity_type": "related_questions",
+      "kgmid": "/g/11jr6q8tdr",
+      "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11jr6q8tdr&hl=en-SG&q=TIO+Markets",
+      "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en-SG&kgmid=%2Fg%2F11jr6q8tdr&q=TIO+Markets&start=0",
+      "place_id": "ChIJdcGCspUz5xQRSgqOUEO0w-0",
+      "website": "https://tiomarkets.com/",
+      "directions": "https://maps.google.com/maps?gl=sg&um=1&ie=UTF-8&fb=1&sa=X&geocode=KXXBgrKVM-cUMUoKjlBDtMPt&daddr=Kolonakiou+36,+Limassol+4103,+Cyprus",
+      "reviews": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzaWJGnnv9GevAjIFr4Sw6xybaNJG7ubnF151uDQK-W1edJw6XfuVf1anny-5MrFHfyLFZp2NqrxcTtif7cNV5PiqQmX8&q=TIO+Markets+Reviews&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ0bkNegQIHhAE",
+      "local_map": {
+        "image": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/a1e4e83dcc42914265d01d06d2895027cfe8400451511daad41bd704630e9c1a.webp",
+        "link": "https://www.google.com/maps/place/TIO+Markets/data=!4m2!3m1!1s0x0:0xedc3b443508e0a4a?sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ_BJ6BAgUEAA&gl=sg"
+      },
+      "rating": 4.2,
+      "review_count": 29,
+      "address": "Kolonakiou 36, Limassol 4103, Cyprus",
+      "address_links": [
+        {
+          "text": "Address",
+          "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=tio+markets+address&ludocid=17132735608654793290&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ6BN6BAghEAI"
+        }
+      ],
+      "raw_hours": "Open 24 hours",
+      "hours": {
+        "tuesday": {
+          "opens": "Open 24 hours"
+        },
+        "wednesday": {
+          "opens": "Open 24 hours"
+        },
+        "thursday": {
+          "opens": "Open 24 hours"
+        },
+        "friday": {
+          "opens": "Open 24 hours"
+        },
+        "saturday": {
+          "opens": "Open 24 hours"
+        },
+        "sunday": {
+          "opens": "Open 24 hours"
+        },
+        "monday": {
+          "opens": "Open 24 hours"
+        }
+      },
+      "merchant_description": "\"TIOmarkets is an online Forex broker and trading platform. Get great value trading conditions for Forex, indices, commodities, stock CFDs and 24/7 customer support.\"",
+      "unclaimed_listing": true
+    },
+    "related_questions": [
+      {
+        "question": "Is TIOmarkets a regulated broker?",
+        "snippet": "TIOmarkets is a trusted broker because it has top-tier regulation. Data on TIOmarkets comes from regulatory sources and is checked by our legal experts. TIOmarkets's clients have access to existing investor protection programs.",
+        "title": "Is TIOmarkets safe or a scam broker? - BrokerChooser",
+        "link": "https://brokerchooser.com/safety/tiomarkets-broker-safe-or-scam#:~:text=TIOmarkets%20is%20a%20trusted%20broker,to%20existing%20investor%20protection%20programs.",
+        "displayed_link": "https://brokerchooser.com › safety › tiomarkets-broker-s...",
+        "source_logo": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/fc076883fc8706b2398048942ec37ac17a32d82089786f86535b4172aaa0d70e.png",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1VGaGZSelJxTVdkdk5HczRSM3BQTkZCM2NsTkdMVVF0VFdaMmNFNUVhbGt6YlZkMmJrMVZXbTFEVVZveFJWTmFaVlpYV25WcFpUZEhaVzl6WWpOUlJEbHdOMEY0WXpKUWJGODRSbXBsTTJabWFscEdlR3BKVWpKclVSSVhNRWROU0dGTk4xUkhUbmxaZDJKclVHYzBObXcwVVdzYUlrRkRSRmhNTkd0MFVHRkxaVVpVWWxKM1FqbDJNakppUVVkMk1reDJZekZyZFhjIiwiZmN2IjoiMyIsImVpIjoiMEdNSGFNN1RHTnlZd2JrUGc0Nmw0UWsiLCJxYyI6IkNncDBhVzl0WVhKclpYUnpFQUI5MW9jVFB3IiwicXVlc3Rpb24iOiJJcyBUSU9tYXJrZXRzIGEgcmVndWxhdGVkIGJyb2tlcj8iLCJsayI6IkdpQnBjeUIwYVc5dFlYSnJaWFJ6SUdFZ2NtVm5kV3hoZEdWa0lHSnliMnRsY2ciLCJicyI6ImMzV1BPd3JDUUJSRnNaMUc3Y0tnY25VSkFjRkdVb2hnYkVKQVNXRTFtcWNKLVR5WUdRbnV3TjVWMnJnR2swQWdGdmJuSHM0VmV6SDNEUTUtVUNpZGtUVlEwSFM3NThwU2pMUG1qTFRudkVKM0laRWEySlRfYzJJcHBsSENMWmNRTnRzQWZPMnBQZWQ1ZE1keVdFdlFXUzdFNGlSV082NlFjM2xEekdTUVdsaVZFU3lqU20wU2ExV2g0SklldUdvdWZveWYwSjFJMmN2cUJpcXZZd3NTYXlHamhEUTFWYjJYWjJVbzlwejNySmxYSGRBdmE0blI0QXMiLCJpZCI6ImZjXzBHTUhhTTdUR055WXdia1BnNDZsNFFrXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1VGaGZSelJxTVdkdk5HczRSM3BQTkZCM2NsTkdMVVF0VFdaMmNFNUVhbGt6YlZkMmJrMVZXbTFEVVZveFJWTmFaVlpYV25WcFpUZEhaVzl6WWpOUlJEbHdOMEY0WXpKUWJGODRSbXBsTTJabWFscEdlR3BKVWpKclVSSVhNRWROU0dGTk4xUkhUbmxaZDJKclVHYzBObXcwVVdzYUlrRkRSRmhNTkd0MFVHRkxaVVpVWWxKM1FqbDJNakppUVVkMk1reDJZekZyZFhjIiwiZmN2IjoiMyIsImVpIjoiMEdNSGFNN1RHTnlZd2JrUGc0Nmw0UWsiLCJxYyI6IkNncDBhVzl0WVhKclpYUnpFQUI5MW9jVFB3IiwicXVlc3Rpb24iOiJJcyBUSU9tYXJrZXRzIGEgcmVndWxhdGVkIGJyb2tlcj8iLCJsayI6IkdpQnBjeUIwYVc5dFlYSnJaWFJ6SUdFZ2NtVm5kV3hoZEdWa0lHSnliMnRsY2ciLCJicyI6ImMzV1BPd3JDUUJSRnNaMUc3Y0tnY25VSkFjRkdVb2hnYkVKQVNXRTFtcWNKLVR5WUdRbnV3TjVWMnJnR2swQWdGdmJuSHM0VmV6SDNEUTUtVUNpZGtUVlEwSFM3NThwU2pMUG1qTFRudkVKM0laRWEySlRfYzJJcHBsSENMWmNRTnRzQWZPMnBQZWQ1ZE1keVdFdlFXUzdFNGlSV082NlFjM2xEekdTUVdsaVZFU3lqU20wU2ExV2g0SklldUdvdWZveWYwSjFJMmN2cUJpcXZZd3NTYXlHamhEUTFWYjJYWjJVbzlwejNySmxYSGRBdmE0blI0QXMiLCJpZCI6ImZjXzBHTUhhTTdUR055WXdia1BnNDZsNFFrXzEifQ%3D%3D"
+      },
+      {
+        "question": "Who is the CEO of TIOmarkets?",
+        "snippet": "The company is run by Cyprus based Group CEO Stefanos Mitsi. TIOmarkets is controlled by Malaysian businessman Manmohan Singh Balbir Singh, who also owns Cyprus based Retail FX broker FXPrimus.",
+        "title": "CEO Stefanos Mitsi",
+        "date": "20 Jan 2025",
+        "link": "https://fxnewsgroup.com/forex-news/executives/tiomarkets-hires-ic-markets-ironfx-alum-andreas-skianis-as-head-of-partners/#:~:text=The%20company%20is%20run%20by,based%20Retail%20FX%20broker%20FXPrimus.",
+        "displayed_link": "https://fxnewsgroup.com › forex-news › executives › tio...",
+        "source_logo": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/fc076883fc8706b2398048942ec37ac1849abaf6025f6e450fdef92bc3df7e31.png",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1VGaGZSelJxTVdkdk5HczRSM3BQTkZCM2NsTkdMVVF0VFdaMmNFNUVhbGt6YlZkMmJrMVZXbTFEVVZveFJWTmFaVlpYV25WcFpUZEhaVzl6WWpOUlJEbHdOMEY0WXpKUWJGODRSbXBsTTJabWFscEdlR3BKVWpKclVSSVhNRWROU0dGTk4xUkhUbmxaZDJKclVHYzBObXcwVVdzYUlrRkRSRmhNTkd0MFVHRkxaVVpVWWxKM1FqbDJNakppUVVkMk1reDJZekZyZFhjIiwiZmN2IjoiMyIsImVpIjoiMEdNSGFNN1RHTnlZd2JrUGc0Nmw0UWsiLCJxYyI6IkNncDBhVzl0WVhKclpYUnpFQUI5MW9jVFB3IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIENFTyBvZiBUSU9tYXJrZXRzPyIsImxrIjoiR2c5MGFXOGdiV0Z5YTJWMGN5QmpaVzgiLCJicyI6ImMzV1BPd3JDUUJSRnNaMUc3Y0tnY25VSkFjRkdVb2hnYkVKQVNXRTFtcWNKLVR5WUdRbnV3TjVWMnJnR2swQWdGdmJuSHM0VmV6SDNEUTUtVUNpZGtUVlEwSFM3NThwU2pMUG1qTFRudkVKM0laRWEySlRfYzJJcHBsSENMWmNRTnRzQWZPMnBQZWQ1ZE1keVdFdlFXUzdFNGlSV082NlFjM2xEekdTUVdsaVZFU3lqU20wU2ExV2g0SklldUdvdWZveWYwSjFJMmN2cUJpcXZZd3NTYXlHamhEUTFWYjJYWjJVbzlwejNySmxYSGRBdmE0blI0QXMiLCJpZCI6ImZjXzBHTUhhTTdUR055WXdia1BnNDZsNFFrXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1VGaGZSelJxTVdkdk5HczRSM3BQTkZCM2NsTkdMVVF0VFdaMmNFNUVhbGt6YlZkMmJrMVZXbTFEVVZveFJWTmFaVlpYV25WcFpUZEhaVzl6WWpOUlJEbHdOMEY0WXpKUWJGODRSbXBsTTJabWFscEdlR3BKVWpKclVSSVhNRWROU0dGTk4xUkhUbmxaZDJKclVHYzBObXcwVVdzYUlrRkRSRmhNTkd0MFVHRkxaVVpVWWxKM1FqbDJNakppUVVkMk1reDJZekZyZFhjIiwiZmN2IjoiMyIsImVpIjoiMEdNSGFNN1RHTnlZd2JrUGc0Nmw0UWsiLCJxYyI6IkNncDBhVzl0WVhKclpYUnpFQUI5MW9jVFB3IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIENFTyBvZiBUSU9tYXJrZXRzPyIsImxrIjoiR2c5MGFXOGdiV0Z5YTJWMGN5QmpaVzgiLCJicyI6ImMzV1BPd3JDUUJSRnNaMUc3Y0tnY25VSkFjRkdVb2hnYkVKQVNXRTFtcWNKLVR5WUdRbnV3TjVWMnJnR2swQWdGdmJuSHM0VmV6SDNEUTUtVUNpZGtUVlEwSFM3NThwU2pMUG1qTFRudkVKM0laRWEySlRfYzJJcHBsSENMWmNRTnRzQWZPMnBQZWQ1ZE1keVdFdlFXUzdFNGlSV082NlFjM2xEekdTUVdsaVZFU3lqU20wU2ExV2g0SklldUdvdWZveWYwSjFJMmN2cUJpcXZZd3NTYXlHamhEUTFWYjJYWjJVbzlwejNySmxYSGRBdmE0blI0QXMiLCJpZCI6ImZjXzBHTUhhTTdUR055WXdia1BnNDZsNFFrXzEifQ%3D%3D"
+      },
+      {
+        "question": "How long does it take to withdraw money from TIOmarkets?",
+        "snippet": "How long do withdrawals take? We process all withdrawal requests within 1 working day and then it is out of our hands. How long it takes to receive your funds will depend on the method used. For credit/debit card or bank wire transfers, it can take between 3-5 working days for your funds to clear.",
+        "title": "How can we help? - TIOmarkets | FAQ",
+        "link": "https://faq.tiomarkets.eu/faq/deposits-withdrawals/how-long-do-withdrawals-take#:~:text=market%20is%20closed%3F-,How%20long%20do%20withdrawals%20take%3F,for%20your%20funds%20to%20clear.",
+        "displayed_link": "https://faq.tiomarkets.eu › how-long-do-withdrawals-take",
+        "source_logo": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/fc076883fc8706b2398048942ec37ac1a0ff5ed6f7a417e41a61a0a3348d20b7.png",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1VGaGZSelJxTVdkdk5HczRSM3BQTkZCM2NsTkdMVVF0VFdaMmNFNUVhbGt6YlZkMmJrMVZXbTFEVVZveFJWTmFaVlpYV25WcFpUZEhaVzl6WWpOUlJEbHdOMEY0WXpKUWJGODRSbXBsTTJabWFscEdlR3BKVWpKclVSSVhNRWROU0dGTk4xUkhUbmxaZDJKclVHYzBObXcwVVdzYUlrRkRSRmhNTkd0MFVHRkxaVVpVWWxKM1FqbDJNakppUVVkMk1reDJZekZyZFhjIiwiZmN2IjoiMyIsImVpIjoiMEdNSGFNN1RHTnlZd2JrUGc0Nmw0UWsiLCJxYyI6IkNncDBhVzl0WVhKclpYUnpFQUI5MW9jVFB3IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkb2VzIGl0IHRha2UgdG8gd2l0aGRyYXcgbW9uZXkgZnJvbSBUSU9tYXJrZXRzPyIsImxrIjoiR2hwMGFXOXRZWEpyWlhSeklIZHBkR2hrY21GM1lXd2dkR2x0WlEiLCJicyI6ImMzV1BPd3JDUUJSRnNaMUc3Y0tnY25VSkFjRkdVb2hnYkVKQVNXRTFtcWNKLVR5WUdRbnV3TjVWMnJnR2swQWdGdmJuSHM0VmV6SDNEUTUtVUNpZGtUVlEwSFM3NThwU2pMUG1qTFRudkVKM0laRWEySlRfYzJJcHBsSENMWmNRTnRzQWZPMnBQZWQ1ZE1keVdFdlFXUzdFNGlSV082NlFjM2xEekdTUVdsaVZFU3lqU20wU2ExV2g0SklldUdvdWZveWYwSjFJMmN2cUJpcXZZd3NTYXlHamhEUTFWYjJYWjJVbzlwejNySmxYSGRBdmE0blI0QXMiLCJpZCI6ImZjXzBHTUhhTTdUR055WXdia1BnNDZsNFFrXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1VGaGZSelJxTVdkdk5HczRSM3BQTkZCM2NsTkdMVVF0VFdaMmNFNUVhbGt6YlZkMmJrMVZXbTFEVVZveFJWTmFaVlpYV25WcFpUZEhaVzl6WWpOUlJEbHdOMEY0WXpKUWJGODRSbXBsTTJabWFscEdlR3BKVWpKclVSSVhNRWROU0dGTk4xUkhUbmxaZDJKclVHYzBObXcwVVdzYUlrRkRSRmhNTkd0MFVHRkxaVVpVWWxKM1FqbDJNakppUVVkMk1reDJZekZyZFhjIiwiZmN2IjoiMyIsImVpIjoiMEdNSGFNN1RHTnlZd2JrUGc0Nmw0UWsiLCJxYyI6IkNncDBhVzl0WVhKclpYUnpFQUI5MW9jVFB3IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkb2VzIGl0IHRha2UgdG8gd2l0aGRyYXcgbW9uZXkgZnJvbSBUSU9tYXJrZXRzPyIsImxrIjoiR2hwMGFXOXRZWEpyWlhSeklIZHBkR2hrY21GM1lXd2dkR2x0WlEiLCJicyI6ImMzV1BPd3JDUUJSRnNaMUc3Y0tnY25VSkFjRkdVb2hnYkVKQVNXRTFtcWNKLVR5WUdRbnV3TjVWMnJnR2swQWdGdmJuSHM0VmV6SDNEUTUtVUNpZGtUVlEwSFM3NThwU2pMUG1qTFRudkVKM0laRWEySlRfYzJJcHBsSENMWmNRTnRzQWZPMnBQZWQ1ZE1keVdFdlFXUzdFNGlSV082NlFjM2xEekdTUVdsaVZFU3lqU20wU2ExV2g0SklldUdvdWZveWYwSjFJMmN2cUJpcXZZd3NTYXlHamhEUTFWYjJYWjJVbzlwejNySmxYSGRBdmE0blI0QXMiLCJpZCI6ImZjXzBHTUhhTTdUR055WXdia1BnNDZsNFFrXzEifQ%3D%3D"
+      },
+      {
+        "question": "Where is TIOmarkets based?",
+        "snippet": "TIO Markets Ltd Suite 305, Griffith Corporate Center, Beachmont, P.O. Box 1510, Kingstown,Saint Vincent and the Grenadines.",
+        "title": "Saint Vincent and the Grenadines",
+        "link": "https://tiomarkets.com/en/contact#:~:text=TIO%20Markets%20Ltd,Saint%20Vincent%20and%20the%20Grenadines.",
+        "displayed_link": "https://tiomarkets.com › contact",
+        "source_logo": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/fc076883fc8706b2398048942ec37ac18d78a6af0d48d3e1290dcebe89e909d5.png",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1VGaGZSelJxTVdkdk5HczRSM3BQTkZCM2NsTkdMVVF0VFdaMmNFNUVhbGt6YlZkMmJrMVZXbTFEVVZveFJWTmFaVlpYV25WcFpUZEhaVzl6WWpOUlJEbHdOMEY0WXpKUWJGODRSbXBsTTJabWFscEdlR3BKVWpKclVSSVhNRWROU0dGTk4xUkhUbmxaZDJKclVHYzBObXcwVVdzYUlrRkRSRmhNTkd0MFVHRkxaVVpVWWxKM1FqbDJNakppUVVkMk1reDJZekZyZFhjIiwiZmN2IjoiMyIsImVpIjoiMEdNSGFNN1RHTnlZd2JrUGc0Nmw0UWsiLCJxYyI6IkNncDBhVzl0WVhKclpYUnpFQUI5MW9jVFB3IiwicXVlc3Rpb24iOiJXaGVyZSBpcyBUSU9tYXJrZXRzIGJhc2VkPyIsImxrIjoiR2hwM2FHVnlaU0JwY3lCMGFXOGdiV0Z5YTJWMGN5QmlZWE5sWkEiLCJicyI6ImMzV1BPd3JDUUJSRnNaMUc3Y0tnY25VSkFjRkdVb2hnYkVKQVNXRTFtcWNKLVR5WUdRbnV3TjVWMnJnR2swQWdGdmJuSHM0VmV6SDNEUTUtVUNpZGtUVlEwSFM3NThwU2pMUG1qTFRudkVKM0laRWEySlRfYzJJcHBsSENMWmNRTnRzQWZPMnBQZWQ1ZE1keVdFdlFXUzdFNGlSV082NlFjM2xEekdTUVdsaVZFU3lqU20wU2ExV2g0SklldUdvdWZveWYwSjFJMmN2cUJpcXZZd3NTYXlHamhEUTFWYjJYWjJVbzlwejNySmxYSGRBdmE0blI0QXMiLCJpZCI6ImZjXzBHTUhhTTdUR055WXdia1BnNDZsNFFrXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1VGaGZSelJxTVdkdk5HczRSM3BQTkZCM2NsTkdMVVF0VFdaMmNFNUVhbGt6YlZkMmJrMVZXbTFEVVZveFJWTmFaVlpYV25WcFpUZEhaVzl6WWpOUlJEbHdOMEY0WXpKUWJGODRSbXBsTTJabWFscEdlR3BKVWpKclVSSVhNRWROU0dGTk4xUkhUbmxaZDJKclVHYzBObXcwVVdzYUlrRkRSRmhNTkd0MFVHRkxaVVpVWWxKM1FqbDJNakppUVVkMk1reDJZekZyZFhjIiwiZmN2IjoiMyIsImVpIjoiMEdNSGFNN1RHTnlZd2JrUGc0Nmw0UWsiLCJxYyI6IkNncDBhVzl0WVhKclpYUnpFQUI5MW9jVFB3IiwicXVlc3Rpb24iOiJXaGVyZSBpcyBUSU9tYXJrZXRzIGJhc2VkPyIsImxrIjoiR2hwM2FHVnlaU0JwY3lCMGFXOGdiV0Z5YTJWMGN5QmlZWE5sWkEiLCJicyI6ImMzV1BPd3JDUUJSRnNaMUc3Y0tnY25VSkFjRkdVb2hnYkVKQVNXRTFtcWNKLVR5WUdRbnV3TjVWMnJnR2swQWdGdmJuSHM0VmV6SDNEUTUtVUNpZGtUVlEwSFM3NThwU2pMUG1qTFRudkVKM0laRWEySlRfYzJJcHBsSENMWmNRTnRzQWZPMnBQZWQ1ZE1keVdFdlFXUzdFNGlSV082NlFjM2xEekdTUVdsaVZFU3lqU20wU2ExV2g0SklldUdvdWZveWYwSjFJMmN2cUJpcXZZd3NTYXlHamhEUTFWYjJYWjJVbzlwejNySmxYSGRBdmE0blI0QXMiLCJpZCI6ImZjXzBHTUhhTTdUR055WXdia1BnNDZsNFFrXzEifQ%3D%3D"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "TIOmarkets | Top Rated Broker | Online Trading Platform",
+        "link": "https://tiomarkets.com/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tiomarkets.com/&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQFnoECDsQAQ",
+        "displayed_link": "https://tiomarkets.com",
+        "favicon": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/c4a0bf121f4a47f927f1347242d9c50849a4242f3f1f2eac4127010ac5408a75.png",
+        "snippet": "Trade with a reputable broker. Unlock endless opportunities and exponentially amplify your potential in the financial markets.",
+        "sitelinks": {
+          "expanded": [
+            {
+              "title": "Online Trading | Forex | CFDs",
+              "link": "https://tiomarkets.com/en/login",
+              "snippet": "TIO Markets Ltd. is authorised by Mwali International Services ..."
+            },
+            {
+              "title": "Register here",
+              "link": "https://tiomarkets.com/en/register",
+              "snippet": "Start trading with a top-rated broker · 30% Loyalty deposit ..."
+            },
+            {
+              "title": "Trading accounts comparison",
+              "link": "https://tiomarkets.com/en/accounts",
+              "snippet": "Select an account that is right for you and start trading Forex ..."
+            },
+            {
+              "title": "Forex Trading Bonus, Promos ...",
+              "link": "https://tiomarkets.com/en/promotions",
+              "snippet": "From exclusive rewards for referring friends to forex trading ..."
+            },
+            {
+              "title": "Demo Trading Account",
+              "link": "https://tiomarkets.com/en/demo",
+              "snippet": "Follow these detailed steps to start demo trading on the MT4 or ..."
+            }
+          ]
+        },
+        "source": "TIOmarkets"
+      },
+      {
+        "position": 2,
+        "title": "TIOmarkets | Online Trading | Forex | CFDs | Stocks",
+        "link": "https://tiomarkets.eu/en/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tiomarkets.eu/en/&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQFnoECDIQAQ",
+        "displayed_link": "https://tiomarkets.eu › ...",
+        "favicon": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/c4a0bf121f4a47f927f1347242d9c508fed84bfba1618c32865092bd1d9c44ee.png",
+        "snippet": "TIOmarkets is a leading online trading platform. Trade Forex, CFDs, Stocks, Commodities and Indices. Trade with low spreads, fast execution and no ...",
+        "snippet_highlighted_words": [
+          "TIOmarkets is a leading online trading platform"
+        ],
+        "source": "tiomarkets.eu"
+      },
+      {
+        "position": 3,
+        "title": "TIOmarkets",
+        "link": "https://www.instagram.com/tiomarkets/?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/tiomarkets/%3Fhl%3Den&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQFnoECDkQAQ",
+        "displayed_link": "3.1K+ followers",
+        "favicon": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/c4a0bf121f4a47f927f1347242d9c508a44cb94a789fc8f6838f4414e9ba18cc.png",
+        "snippet": "Trade forex, stocks, indices & commodities markets with low fees. Trading is risky! tiomarkets.com Follow Message",
+        "snippet_highlighted_words": [
+          "Trade forex, stocks, indices & commodities markets"
+        ],
+        "source": "Instagram · tiomarkets"
+      },
+      {
+        "position": 4,
+        "title": "TIOmarkets",
+        "link": "https://vc.linkedin.com/company/tiomarkets",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vc.linkedin.com/company/tiomarkets&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQFnoECDMQAQ",
+        "displayed_link": "4K+ followers",
+        "favicon": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/c4a0bf121f4a47f927f1347242d9c508db050494de9552f1203b2e0818e0d687.png",
+        "snippet": "This week's economic calendar is packed with high-impact events! Don't miss out – see below for the full calendar and make informed trading decisions.",
+        "source": "LinkedIn · TIOmarkets"
+      },
+      {
+        "position": 5,
+        "title": "The Truth About Trading - TioMarkets",
+        "link": "https://www.youtube.com/watch?v=fyVnKh7GcBA",
+        "displayed_link": "36.2K+ views · 5 months ago",
+        "thumbnail": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/c4a0bf121f4a47f927f1347242d9c508bca0da279549cb444dc7a898ad806053.jpeg",
+        "favicon": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/c4a0bf121f4a47f927f1347242d9c508caf18c107586b70b8bf91f471a304eff.png",
+        "snippet": "Trading is like gambling and he gave his honest opinion as to why this industry has such a bad name.",
+        "duration": "16:38",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT-bJq6eP2Gj_amCFmUsauDOC3xsStTSmbEMA",
+        "source": "YouTube · Yianni"
+      },
+      {
+        "position": 6,
+        "title": "TIOmarkets",
+        "link": "https://www.facebook.com/TIOmarkets/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/TIOmarkets/&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQFnoECHIQAQ",
+        "displayed_link": "8.5K+ followers",
+        "favicon": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/c4a0bf121f4a47f927f1347242d9c508126838a23b1530a69cf2b225b742a1ca.png",
+        "snippet": "This week's economic calendar is packed with high-impact events! Don't miss out – see below for the full calendar and make informed trading decisions.",
+        "snippet_highlighted_words": [
+          "economic calendar is packed with high-impact events"
+        ],
+        "source": "Facebook · TIOmarkets"
+      },
+      {
+        "position": 7,
+        "title": "TIOmarkets - X",
+        "link": "https://x.com/tiomarkets?lang=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/tiomarkets%3Flang%3Den&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQFnoECG0QAQ",
+        "displayed_link": "https://x.com › tiomarkets",
+        "favicon": "https://serpapi.com/searches/680763c805a96bfed243b66d/images/c4a0bf121f4a47f927f1347242d9c5086d8f09ca9b789c0127561b2730015a6a.png",
+        "snippet": "Online Forex broker. Trade financial markets. The content of this page is not intended to EU residence. Visit our website to learn more.",
+        "snippet_highlighted_words": [
+          "Online Forex broker"
+        ],
+        "source": "x.com"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Tiomarkets login",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=Tiomarkets+login&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ1QJ6BAhuEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Tiomarkets+login&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "TIOmarkets review",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIOmarkets+review&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ1QJ6BAhvEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIOmarkets+review&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "TIOmarkets app",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIOmarkets+app&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ1QJ6BAhrEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIOmarkets+app&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "TIO Markets minimum deposit",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIO+Markets+minimum+deposit&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ1QJ6BAhoEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIO+Markets+minimum+deposit&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "TIOmarkets promo code",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIOmarkets+promo+code&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ1QJ6BAhqEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIOmarkets+promo+code&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "Tiomarkets wikifx",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=Tiomarkets+wikifx&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ1QJ6BAhpEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Tiomarkets+wikifx&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "Tiomarkets no deposit bonus",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=Tiomarkets+no+deposit+bonus&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ1QJ6BAhmEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Tiomarkets+no+deposit+bonus&start=0"
+      },
+      {
+        "block_position": 1,
+        "query": "TIOmarkets unlimited leverage",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIOmarkets+unlimited+leverage&sa=X&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ1QJ6BAhnEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIOmarkets+unlimited+leverage&start=0"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=10&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8NMDegQIDhAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=10&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8tMDegQIDhAE",
+        "3": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=20&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8tMDegQIDhAG",
+        "4": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=30&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8tMDegQIDhAI",
+        "5": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=40&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8tMDegQIDhAK",
+        "6": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=50&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8tMDegQIDhAM",
+        "7": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=60&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8tMDegQIDhAO",
+        "8": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=70&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8tMDegQIDhAQ",
+        "9": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=80&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8tMDegQIDhAS",
+        "10": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0GMHaM7TGNyYwbkPg46l4Qk&start=90&sa=N&sstk=Af40H4W6N30k70lwtLP-P-C5dQ2_eF99OljPq3OUvc1W17twuU7D5mtf4D4787iwRtcQIxZLGQDh-dioxKOb06jYkdd233IZDJzxOg&ved=2ahUKEwjO-6qWrOuMAxVcTDABHQNHKZwQ8tMDegQIDhAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=90"
+      }
+    }
+  },
+  {
+    "search_metadata": {
+      "id": "680763d183f4f2a35c8d5edc",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/e9df026648171a67/680763d183f4f2a35c8d5edc.json",
+      "created_at": "2025-04-22 09:39:29 UTC",
+      "processed_at": "2025-04-22 09:39:29 UTC",
+      "google_url": "https://www.google.com/search?q=TioMarkets&oq=TioMarkets&gl=sg&start=10&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/e9df026648171a67/680763d183f4f2a35c8d5edc.html",
+      "total_time_taken": 0.56
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "TioMarkets",
+      "google_domain": "google.com",
+      "gl": "sg",
+      "start": 10,
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "TioMarkets",
+      "total_results": 50700,
+      "page_number": 2,
+      "time_taken_displayed": 0.38,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "TIOmarkets - X",
+        "link": "https://x.com/tiomarkets?lang=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/tiomarkets%3Flang%3Den&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQIFxAB",
+        "displayed_link": "https://x.com › tiomarkets",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f8ac478b0c72c8c31a8f8fb990717953bf.png",
+        "snippet": "Online Forex broker. Trade financial markets. The content of this page is not intended to EU residence. Visit our website to learn more.",
+        "snippet_highlighted_words": [
+          "Online Forex broker"
+        ],
+        "source": "x.com"
+      },
+      {
+        "position": 2,
+        "title": "Tio Markets Review And Rating",
+        "link": "https://www.myfxbook.com/reviews/brokers/tio-markets/1800945,1",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.myfxbook.com/reviews/brokers/tio-markets/1800945,1&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQIFRAB",
+        "displayed_link": "https://www.myfxbook.com › Reviews › Brokers",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f834f2244da7b684691131abd85b8a01fa.png",
+        "snippet": "TIOmarkets is an online trading broker committed to providing a low-cost trading environment to new and experienced FX traders, worldwide.",
+        "snippet_highlighted_words": [
+          "TIOmarkets"
+        ],
+        "source": "Myfxbook.com"
+      },
+      {
+        "position": 3,
+        "title": "TIOmarkets - Crunchbase Company Profile & Funding",
+        "link": "https://www.crunchbase.com/organization/tiomarkets",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crunchbase.com/organization/tiomarkets&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQIGhAB",
+        "displayed_link": "https://www.crunchbase.com › organization › tiomarkets",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f813b65ba9bf93dc743aeb8c7e20b77dbe.png",
+        "snippet": "TIOmarkets provides trading, cryptocurrency, risk management, consulting, accounting, and financial services. Kingstown, Cumbria, United Kingdom · 101-250 ...",
+        "snippet_highlighted_words": [
+          "TIOmarkets"
+        ],
+        "source": "Crunchbase"
+      },
+      {
+        "position": 4,
+        "title": "TIOmarkets | UK based Forex CFD broker",
+        "link": "https://tiomarkets.uk/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tiomarkets.uk/&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQIGBAB",
+        "displayed_link": "https://tiomarkets.uk",
+        "thumbnail": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f80479d0a152de93347e3e7a5983acaafb.jpeg",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f87fb2152e78af015430578b37ebc82d4d.png",
+        "snippet": "TIOmarkets is a leading online trading platform. Trade Forex, CFDs, Stocks, Commodities and Indices. Trade with low spreads, fast execution and no ...",
+        "snippet_highlighted_words": [
+          "TIOmarkets is a leading online trading platform"
+        ],
+        "source": "tiomarkets.uk"
+      },
+      {
+        "position": 5,
+        "title": "TIOmarkets",
+        "link": "https://www.youtube.com/channel/UCnhSFqXMFQo4D21aaJLm-VA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UCnhSFqXMFQo4D21aaJLm-VA&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQIGRAB",
+        "displayed_link": "6.6K+ followers",
+        "thumbnail": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f8adf60cc4556604faaa5de00d40f6f586.jpeg",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f813b065bd2f4d663380c6c34c60c8af94.png",
+        "snippet": "TIOmarkets is a multi award winning broker, providing seamless and real time access to global financial markets. Trade Forex, indices, commodity and stock ...",
+        "snippet_highlighted_words": [
+          "TIOmarkets"
+        ],
+        "source": "YouTube · TIOmarkets"
+      },
+      {
+        "position": 6,
+        "title": "TIOmarkets ‌Review 2025: Pros, Cons and Key Features",
+        "link": "https://tradersunion.com/brokers/forex/view/tiomarkets/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tradersunion.com/brokers/forex/view/tiomarkets/&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQIFBAB",
+        "displayed_link": "https://tradersunion.com › brokers › forex › view › tio...",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f8050d67e1702cd65b86dd0d80a7d43c02.png",
+        "date": "1 Apr 2025",
+        "snippet": "TIOmarkets is a moderate-risk broker with the TU Overall Score of 6.99 out of 10. Having reviewed trading opportunities offered by the ...",
+        "snippet_highlighted_words": [
+          "TIOmarkets is a moderate-risk broker"
+        ],
+        "source": "Traders Union"
+      },
+      {
+        "position": 7,
+        "title": "Trader Tiomarkets — Trading Ideas & Charts",
+        "link": "https://www.tradingview.com/u/Tiomarkets/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tradingview.com/u/Tiomarkets/&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQIExAB",
+        "displayed_link": "https://www.tradingview.com › Tiomarkets",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f8d126bbbe75144ec81ba48a9e9df5d269.png",
+        "snippet": "Charts, forecasts and trading ideas from trader Tiomarkets. Get unique market insights from the largest community of active traders and investors.",
+        "snippet_highlighted_words": [
+          "Charts, forecasts and trading ideas from trader Tiomarkets"
+        ],
+        "source": "TradingView"
+      },
+      {
+        "position": 8,
+        "title": "Is TIOmarkets safe or a scam broker?",
+        "link": "https://brokerchooser.com/safety/tiomarkets-broker-safe-or-scam",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brokerchooser.com/safety/tiomarkets-broker-safe-or-scam&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQIMxAB",
+        "displayed_link": "https://brokerchooser.com › safety › tiomarkets-broker-s...",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f8c8aa62b9bd35693f6aceb7e71b4db00e.png",
+        "date": "7 days ago",
+        "snippet": "You can rest assured that TIOmarkets is not a scam but a legitimate entity. Regulated by the UK's Financial Conduct Authority. Why I recommend ...",
+        "snippet_highlighted_words": [
+          "TIOmarkets is not a scam but a legitimate entity"
+        ],
+        "source": "BrokerChooser"
+      },
+      {
+        "position": 9,
+        "title": "TIOmarkets Apps on the App Store",
+        "link": "https://apps.apple.com/in/developer/tiomarkets/id1564062380",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/in/developer/tiomarkets/id1564062380&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQINBAB",
+        "displayed_link": "https://apps.apple.com › developer › tiomarkets",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f853eab423784e491b1b5c65ef4fe25c14.png",
+        "snippet": "Download apps by TIOmarkets, including TIOsignals: FX Trading Signals.",
+        "snippet_highlighted_words": [
+          "Download apps by TIOmarkets"
+        ],
+        "source": "Apple"
+      },
+      {
+        "position": 10,
+        "title": "TIO Markets Review, Forex Broker&Trading ...",
+        "link": "https://www.wikifx.com/en/dealer/8731270205.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wikifx.com/en/dealer/8731270205.html&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChAWegQIORAB",
+        "displayed_link": "https://www.wikifx.com › WikiFX › Broker",
+        "thumbnail": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f8f1c1c9c7068c23c6ea3b48057a0af32d.png",
+        "favicon": "https://serpapi.com/searches/680763d183f4f2a35c8d5edc/images/a178801135e0b8518aa4b464ede328f8f603518e1d53964a60a5154aa505e567.png",
+        "snippet": "TIO Markets is a forex and CFD broker registered in the United Kingdom, offering diversified trading products including currency pairs, indices and commodities ...",
+        "snippet_highlighted_words": [
+          "TIO Markets"
+        ],
+        "source": "WikiFX"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Tiomarkets login",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=Tiomarkets+login&sa=X&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDVAnoECDEQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Tiomarkets+login&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "TIOmarkets review",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIOmarkets+review&sa=X&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDVAnoECDIQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIOmarkets+review&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "TIOmarkets app",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIOmarkets+app&sa=X&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDVAnoECDAQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIOmarkets+app&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "TIO Markets minimum deposit",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIO+Markets+minimum+deposit&sa=X&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDVAnoECC8QAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIO+Markets+minimum+deposit&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "TIOmarkets promo code",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIOmarkets+promo+code&sa=X&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDVAnoECCwQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIOmarkets+promo+code&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "Tiomarkets wikifx",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=Tiomarkets+wikifx&sa=X&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDVAnoECC0QAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Tiomarkets+wikifx&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "Tiomarkets no deposit bonus",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=Tiomarkets+no+deposit+bonus&sa=X&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDVAnoECC4QAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=Tiomarkets+no+deposit+bonus&start=10"
+      },
+      {
+        "block_position": 1,
+        "query": "TIOmarkets unlimited leverage",
+        "link": "https://www.google.com/search?sca_esv=0d5b412c1151c0c6&gl=sg&q=TIOmarkets+unlimited+leverage&sa=X&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDVAnoECCsQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TIOmarkets+unlimited+leverage&start=10"
+      }
+    ],
+    "pagination": {
+      "current": 2,
+      "previous": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=0&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDx0wN6BAgIEAI",
+      "next": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=20&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDw0wN6BAgIEBc",
+      "other_pages": {
+        "1": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=0&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDy0wN6BAgIEAQ",
+        "3": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=20&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDy0wN6BAgIEAc",
+        "4": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=30&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDy0wN6BAgIEAk",
+        "5": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=40&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDy0wN6BAgIEAs",
+        "6": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=50&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDy0wN6BAgIEA0",
+        "7": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=60&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDy0wN6BAgIEA8",
+        "8": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=70&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDy0wN6BAgIEBE",
+        "9": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=80&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDy0wN6BAgIEBM",
+        "10": "https://www.google.com/search?q=TioMarkets&sca_esv=0d5b412c1151c0c6&gl=sg&ei=0WMHaPjyJrCp5NoPo9e_yQk&start=90&sa=N&ved=2ahUKEwi4n_aWrOuMAxWwFFkFHaPrL5k4ChDy0wN6BAgIEBU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 2,
+      "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=0",
+      "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=0",
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=20",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=20",
+      "other_pages": {
+        "1": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=0",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&q=TioMarkets&start=90"
+      }
+    }
+  }
+]

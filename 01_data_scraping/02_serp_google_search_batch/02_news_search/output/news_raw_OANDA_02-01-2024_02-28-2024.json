@@ -1,0 +1,362 @@
+[
+    {
+        "search_metadata": {
+            "id": "680763d7c654bf0a333e4f27",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/9097854b3b8b2134/680763d7c654bf0a333e4f27.json",
+            "created_at": "2025-04-22 09:39:35 UTC",
+            "processed_at": "2025-04-22 09:39:35 UTC",
+            "google_url": "https://www.google.com/search?q=OANDA&oq=OANDA&hl=en&gl=sg&tbm=nws&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&start=0&sourceid=chrome&ie=UTF-8",
+            "raw_html_file": "https://serpapi.com/searches/9097854b3b8b2134/680763d7c654bf0a333e4f27.html",
+            "total_time_taken": 1.07
+        },
+        "search_parameters": {
+            "engine": "google",
+            "q": "OANDA",
+            "google_domain": "google.com",
+            "hl": "en",
+            "gl": "sg",
+            "start": 0,
+            "device": "desktop",
+            "tbm": "nws",
+            "tbs": "cdr:1,cd_min:02/01/2024,cd_max:02/28/2024"
+        },
+        "search_information": {
+            "query_displayed": "OANDA",
+            "total_results": 674,
+            "time_taken_displayed": 0.24,
+            "news_results_state": "Results for exact spelling"
+        },
+        "news_results": [
+            {
+                "position": 1,
+                "link": "https://fxnewsgroup.com/forex-news/retail-forex/court-dismisses-oandas-patent-infringement-claims-against-stonex/",
+                "title": "Court dismisses OANDA’s patent infringement claims against StoneX",
+                "source": "FX News Group",
+                "date": "15 Feb 2024",
+                "snippet": "Court dismisses OANDA's patent infringement claims against StoneX ... The Illinois Northern District Court has dismissed a patent infringement lawsuit brought by...",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad2dfb199afa5a696dc96814d8e4fce4fb.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad4ae4ff9962b22f89bd056ffa88de023b39e9ec5350927d6c.jpeg"
+            },
+            {
+                "position": 2,
+                "link": "https://www.marketpulse.com/news/eurjpy-price-action-and-technical-analysis-overview/",
+                "title": "EURJPY Price Action and Technical Analysis Overview",
+                "source": "MarketPulse",
+                "date": "18 Feb 2024",
+                "snippet": "Talking Points: FOMC January 31st, 2024, Meeting Minutes. Technical Analysis EUR/JPY 8-Hour chart Commitment of Traders Report - EUR/JPY OANDA's Position.",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad0bffb7d77f705f4918ae8dd2ba00534c.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad6e792d3ea70e37d1f5887d5944356bcd8326c33104edb3d9.jpeg"
+            },
+            {
+                "position": 3,
+                "link": "https://www.disruptionbanking.com/2024/02/26/oanda-launches-fca-registered-crypto-trading-platform-in-the-uk/",
+                "title": "OANDA launches FCA-registered crypto trading platform in the UK",
+                "source": "Disruption Banking",
+                "date": "26 Feb 2024",
+                "snippet": "OANDA Crypto, a true crypto-native platform for private investors and traders in the United Kingdom designed with security and responsiveness at its heart.",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad1d002692c5dea874d9a482da2fbea940.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ada3049a0d574d97c5139341db44a9321406005b1bca3c3b5a.jpeg"
+            },
+            {
+                "position": 4,
+                "link": "https://www.tradingview.com/chart/XAUUSD/SaFYS3sq-Understanding-LIQUIDITY/",
+                "title": "Understanding LIQUIDITY for OANDA:XAUUSD by Road_2_Funded",
+                "source": "TradingView",
+                "date": "7 Feb 2024",
+                "snippet": "In this video I try to explain liquidity as it pertains to training in a simple manner. Liquidity are basically orders in the marketplace. Since trading is a...",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad119a565d543105e54137f7fe57e0c102.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad2c3472170ca5124490d61c4ecdc76e9573499516aedda018.png"
+            },
+            {
+                "position": 5,
+                "link": "https://www.cryptotimes.io/2024/02/26/us-based-oanda-to-offer-crypto-trading-services-in-the-uk/",
+                "title": "US-based OANDA to Offer Crypto Trading Services in the UK",
+                "source": "The Crypto Times",
+                "date": "26 Feb 2024",
+                "snippet": "OANDA's UK launch of OANDA Crypto offers trading for 63+ cryptocurrency pairs, starting with BTC and ETH, post-acquiring Coinpass.",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad2c1603ecc4a2609de48d38c8ac68fba5.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad0fbd3332d1f6828eeaf4876da86994b25b3e7196ea8d4ede.jpeg"
+            },
+            {
+                "position": 6,
+                "link": "https://www.marketpulse.com/news/gbpjpy-testing-highs-ahead-of-key-uk-economic-data/",
+                "title": "GBP/JPY - Testing highs ahead of key UK economic data",
+                "source": "www.marketpulse.com",
+                "date": "12 Feb 2024",
+                "snippet": "UK wage growth key to BoE sustainably hitting inflation target GBPJPY struggling near recent highs Divergence points to loss of momentum The coming days o.",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad8658a385313129ecdea71035dd38bc56.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8adcdf911c74e946df466dfe21d63de7a7010fa5f34099bdbfa.jpeg"
+            },
+            {
+                "position": 7,
+                "link": "https://www.fxleaders.com/forex-brokers/tradingview-forex-brokers/",
+                "title": "5 Best TradingView Forex Brokers (☑️Updated 2025*)",
+                "source": "FXLeaders",
+                "date": "26 Feb 2024",
+                "snippet": "5 Best TradingView Forex Brokers rated and reviewed. An overview of the brokers that made this list with their pros & cons for traders.",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad9444667bcc5ab94753fa458f1e3c3e38.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad006be14460ef6359966b7b5e0340d3872d0f973b38d675bc.jpeg"
+            },
+            {
+                "position": 8,
+                "link": "https://www.coindesk.com/markets/2024/02/26/first-mover-americas-bitcoin-correction-could-be-approaching",
+                "title": "First Mover Americas: Bitcoin Correction Could Be Approaching",
+                "source": "CoinDesk",
+                "date": "26 Feb 2024",
+                "snippet": "The latest price moves in bitcoin (BTC) and crypto markets in context for Feb. 26, 2024. First Mover is CoinDesk's daily newsletter that contextualizes the...",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad594ffd3c396460ec1e10334e97c76e56.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad852ed12753351793950f3df113745bd4b37a91077bd16f55.png"
+            },
+            {
+                "position": 9,
+                "link": "https://www.tradingview.com/chart/XAUUSD/sYsWPMiY-Trading-Sessions-in-Forex-Free-Market-Sessions-Indicator/",
+                "title": "Trading Sessions in Forex | Free Market Sessions Indicator for OANDA:XAUUSD by VasilyTrader",
+                "source": "TradingView",
+                "date": "17 Feb 2024",
+                "snippet": "There is a free technical indicator on TradingView that allows to underline trading sessions on a price chart. It is called Market Sessions.",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad81b0613c4a73df76778569462e9731c5.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad6cc854a1123f7aa6e2a60a0b815c90ea44980fb2bab90096.png"
+            },
+            {
+                "position": 10,
+                "link": "https://www.newyorkredbulls.com/news/new-york-red-bulls-announce-2024-theme-nights-giveaways-and-home-opener-activati",
+                "title": "New York Red Bulls Announce 2024 Theme Nights, Giveaways and Home Opener Activations",
+                "source": "New York Red Bulls",
+                "date": "9 Feb 2024",
+                "snippet": "The New York Red Bulls have announced their theme nights and giveaways for the 2024 season. All 17 regular season home matches at Red Bull Arena will have a...",
+                "favicon": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ad261e223e7c7e97339d02a1f051ec7564.png",
+                "thumbnail": "https://serpapi.com/searches/680763d7c654bf0a333e4f27/images/f5b457273913f8ade072b0c8123d916e32ec2232778777d6a9a2fce281682f47.jpeg"
+            }
+        ],
+        "pagination": {
+            "current": 1,
+            "next": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&gl=sg&hl=en&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2GMHaPL6COKWwbkP1ZXJqQE&start=10&sa=N&ved=2ahUKEwjyxoOarOuMAxViSzABHdVKMhUQ8NMDegQIBRAI",
+            "other_pages": {
+                "2": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&gl=sg&hl=en&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2GMHaPL6COKWwbkP1ZXJqQE&start=10&sa=N&ved=2ahUKEwjyxoOarOuMAxViSzABHdVKMhUQ8tMDegQIBRAE",
+                "3": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&gl=sg&hl=en&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2GMHaPL6COKWwbkP1ZXJqQE&start=20&sa=N&ved=2ahUKEwjyxoOarOuMAxViSzABHdVKMhUQ8tMDegQIBRAG"
+            }
+        },
+        "serpapi_pagination": {
+            "current": 1,
+            "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=10&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+            "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=10&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+            "other_pages": {
+                "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=10&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+                "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=20&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024"
+            }
+        }
+    },
+    {
+        "search_metadata": {
+            "id": "680763d9dafde113a5ddf621",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/2e5f4ec41384e382/680763d9dafde113a5ddf621.json",
+            "created_at": "2025-04-22 09:39:37 UTC",
+            "processed_at": "2025-04-22 09:39:37 UTC",
+            "google_url": "https://www.google.com/search?q=OANDA&oq=OANDA&hl=en&gl=sg&tbm=nws&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&start=10&sourceid=chrome&ie=UTF-8",
+            "raw_html_file": "https://serpapi.com/searches/2e5f4ec41384e382/680763d9dafde113a5ddf621.html",
+            "total_time_taken": 0.69
+        },
+        "search_parameters": {
+            "engine": "google",
+            "q": "OANDA",
+            "google_domain": "google.com",
+            "hl": "en",
+            "gl": "sg",
+            "start": 10,
+            "device": "desktop",
+            "tbm": "nws",
+            "tbs": "cdr:1,cd_min:02/01/2024,cd_max:02/28/2024"
+        },
+        "search_information": {
+            "query_displayed": "OANDA",
+            "total_results": 674,
+            "page_number": 2,
+            "time_taken_displayed": 0.17,
+            "news_results_state": "Results for exact spelling"
+        },
+        "news_results": [
+            {
+                "position": 1,
+                "link": "https://www.marketpulse.com/news/gbpusd-a-bearish-reversal-at-a-key-fib-level/",
+                "title": "GBP/USD - A bearish reversal at a key Fib level?",
+                "source": "www.marketpulse.com",
+                "date": "7 Feb 2024",
+                "snippet": "Fed policymakers sticking to the script US data continues to point to a strong economy Fib rebound may suggest we've seen a correction in GBPUSD It isn't.",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb370691484a08ac24568c03c6c199d422654.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb37084a1f5b3c24b25ce6f25e4cfe0dae2b85f327c68a7d110ea.jpeg"
+            },
+            {
+                "position": 2,
+                "link": "https://www.heraldscotland.com/news/24145282.best-spread-betting-platforms-uk-expert-reviews-analysis/",
+                "title": "Best spread betting platforms UK: Expert Reviews & Analysis",
+                "source": "The Herald",
+                "date": "26 Feb 2024",
+                "snippet": "We named Melbourne-based Pepperstone the top spread betting platform for UK-based traders due to its exceptional execution speeds, competitive trading costs.",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb370d1c776e3793c8f24ff24a21384ee4c3a.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb3701ba9b3cf96fdfbfca648bda4a8790aae2c2a0b8b0e5a2ffb.jpeg"
+            },
+            {
+                "position": 3,
+                "link": "https://www.fxleaders.com/forex-brokers/forex-brokers-by-country/forex-brokers-usa/cftc-regulated-forex-brokers/",
+                "title": "6 Best CFTC Regulated Forex Brokers (USA) (☑️Updated 2024*)",
+                "source": "FXLeaders",
+                "date": "20 Feb 2024",
+                "snippet": "6 Best CFTC Regulated Forex Brokers rated and reviewed. An overview of the brokers that made this list with their pros & cons for traders.",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb370ab1b3bc5dba1b137cfd9442ecd3f2ecb.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb3708d36d12eed1200879346eb3a295c11296934e3482e99e2cb.png"
+            },
+            {
+                "position": 4,
+                "link": "https://www.tradingview.com/chart/DE30EUR/F3h7GysX-Timely-Opening-Range-Breakout-Strategy-TORB/",
+                "title": "Timely Opening Range Breakout Strategy (TORB) for OANDA:DE30EUR by Zeiierman",
+                "source": "TradingView",
+                "date": "9 Feb 2024",
+                "snippet": "TORB leverages high-frequency intraday data and aligns trading strategies with the active hours of the underlying stock markets.",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb370208dda32c04c172c6976e7f29d1bb1c0.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb370c2abc0c35fae3b7cefcc21717ba42512533cb6e19ad0f312.jpeg"
+            },
+            {
+                "position": 5,
+                "link": "https://www.heraldscotland.com/news/24131474.2024s-best-forex-trading-platforms-uk-expert-reviews-analysis/",
+                "title": "2024's Best forex trading platforms in the UK: Expert Reviews & Analysis",
+                "source": "The Herald",
+                "date": "20 Feb 2024",
+                "snippet": "In-depth guide to the UK's best forex trading platforms for 2024. Rankings based on trading tools, execution, low spreads, and FCA regulation.",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb370d1acfe32604e915a5540243c0f996950.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb37059d30631a0786d02da47ee616f6be72983effd4363ad2440.jpeg"
+            },
+            {
+                "position": 6,
+                "link": "https://www.fxleaders.com/forex-brokers/iiroc-regulated-forex-brokers/",
+                "title": "6 Best IIROC-Regulated Forex Brokers (☑️Updated 2025*)",
+                "source": "FXLeaders",
+                "date": "26 Feb 2024",
+                "snippet": "6 Best IIROC-Regulated Forex Brokers rated and reviewed. An overview of the brokers that made this list with their pros & cons for traders.",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb37022836235861a1282d6a4810610ba081e.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb3707518bf43b76542969ca7425fbbbda6b1795c041ba53f24fc.jpeg"
+            },
+            {
+                "position": 7,
+                "link": "https://www.tradingview.com/news/financemagnates:4c1c37346094b:0-webull-expands-collaboration-with-tradingview-includes-trading-from-charts/",
+                "title": "Webull Expands Collaboration with TradingView, Includes Trading from Charts",
+                "source": "TradingView",
+                "date": "14 Feb 2024",
+                "snippet": "This new integration allows TradingView users to execute trades directly through a connected Webull account, initially supporting stocks, depository receipts,...",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb37006afd3fde25b8094fc6599ee5e55ce15.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb370a19bb1113fc70d393e14e59e7568d546c062edb0fed7dc7a.jpeg"
+            },
+            {
+                "position": 8,
+                "link": "https://www.tradingview.com/news/financemagnates:aaf0cb89a094b:0-top-trading-platforms-for-brokers-in-2024/",
+                "title": "Top Trading Platforms for Brokers in 2024",
+                "source": "TradingView",
+                "date": "28 Feb 2024",
+                "snippet": "In the retail brokerage space, success hinges on the power and efficiency of trading platforms. Brokers require robust, reliable, and customizable solutions...",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb3703969c8798a7b2fbe7959b07763ad44aa.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb370bf7c32272ad6f5aa83bd2286ab1fcafa75bee1a6044f0808.jpeg"
+            },
+            {
+                "position": 9,
+                "link": "https://www.tradingview.com/news/financemagnates:f8c595249094b:0-prop-trading-firms-renaissance-cutting-us-clients-integrating-new-trading-platforms/",
+                "title": "Prop Trading Firms’ Renaissance: Cutting US Clients, Integrating New Trading Platforms",
+                "source": "TradingView",
+                "date": "19 Feb 2024",
+                "snippet": "The drama around prop trading is widening, as MetaQuotes is allegedly cracking down on using MetaTrader platforms. Although the Cyprus-headquartered company...",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb37073b3466dd6c2c4b1db080da1d28be040.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb3709340f2fb83da5a8b40979767a687e73b7e3c3f0d05df37f9.jpeg"
+            },
+            {
+                "position": 10,
+                "link": "https://tradersunion.com/news/bonuses-and-promotions/show/5352-oanda-launches-special-offer-for-chinese-new-year/",
+                "title": "OANDA launches special offer for Chinese New Year",
+                "source": "Traders Union",
+                "date": "6 Feb 2024",
+                "snippet": "The broker has prepared a special offer, the Red Package Bonus, timed to coincide with the Chinese Lunar New Year.",
+                "favicon": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb3707f0cd2c0519b35cbac153d11b747e085.png",
+                "thumbnail": "https://serpapi.com/searches/680763d9dafde113a5ddf621/images/b3d078445accb370979fb2d5019257d02cac807638e6dcbcf9d9e8b67956424d.jpeg"
+            }
+        ],
+        "pagination": {
+            "current": 2,
+            "previous": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&hl=en&gl=sg&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2WMHaPaZJZPIp84Ph63WgQU&start=0&sa=N&ved=2ahUKEwi26tyarOuMAxUT5MkDHYeWNVA4ChDx0wN6BAgFEAI",
+            "next": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&hl=en&gl=sg&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2WMHaPaZJZPIp84Ph63WgQU&start=20&sa=N&ved=2ahUKEwi26tyarOuMAxUT5MkDHYeWNVA4ChDw0wN6BAgFEAk",
+            "other_pages": {
+                "1": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&hl=en&gl=sg&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2WMHaPaZJZPIp84Ph63WgQU&start=0&sa=N&ved=2ahUKEwi26tyarOuMAxUT5MkDHYeWNVA4ChDy0wN6BAgFEAQ",
+                "3": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&hl=en&gl=sg&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2WMHaPaZJZPIp84Ph63WgQU&start=20&sa=N&ved=2ahUKEwi26tyarOuMAxUT5MkDHYeWNVA4ChDy0wN6BAgFEAc"
+            }
+        },
+        "serpapi_pagination": {
+            "current": 2,
+            "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=0&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+            "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=0&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+            "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=20&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+            "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=20&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+            "other_pages": {
+                "1": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=0&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+                "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=20&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024"
+            }
+        }
+    },
+    {
+        "search_metadata": {
+            "id": "680763da24f74bede91f610b",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/8df9c26c1eb76163/680763da24f74bede91f610b.json",
+            "created_at": "2025-04-22 09:39:38 UTC",
+            "processed_at": "2025-04-22 09:39:38 UTC",
+            "google_url": "https://www.google.com/search?q=OANDA&oq=OANDA&hl=en&gl=sg&tbm=nws&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&start=20&sourceid=chrome&ie=UTF-8",
+            "raw_html_file": "https://serpapi.com/searches/8df9c26c1eb76163/680763da24f74bede91f610b.html",
+            "total_time_taken": 0.55
+        },
+        "search_parameters": {
+            "engine": "google",
+            "q": "OANDA",
+            "google_domain": "google.com",
+            "hl": "en",
+            "gl": "sg",
+            "start": 20,
+            "device": "desktop",
+            "tbm": "nws",
+            "tbs": "cdr:1,cd_min:02/01/2024,cd_max:02/28/2024"
+        },
+        "search_information": {
+            "query_displayed": "OANDA",
+            "total_results": 22,
+            "page_number": 3,
+            "time_taken_displayed": 0.17,
+            "news_results_state": "Results for exact spelling"
+        },
+        "news_results": [
+            {
+                "position": 1,
+                "link": "https://financefeeds.com/oanda-launches-fca-registered-oanda-crypto-in-the-uk/?ekit-blog-posts-paged=5869",
+                "title": "OANDA Launches FCA-registered OANDA Crypto In The UK",
+                "source": "FinanceFeeds",
+                "date": "26 Feb 2024",
+                "snippet": "It was last year that OANDA acquired FCA-registered Coinpass, which meant that the global brokerage firm would eventually launch its own branded crypto...",
+                "favicon": "https://serpapi.com/searches/680763da24f74bede91f610b/images/cc69920bf5f2ce7e337912efdee7f9142fd5a68c9204c629.png",
+                "thumbnail": "https://serpapi.com/searches/680763da24f74bede91f610b/images/cc69920bf5f2ce7e69803ea469cfbd8dae79db48001c0bfd9b99770ec37fc7b4.jpeg"
+            }
+        ],
+        "pagination": {
+            "current": 3,
+            "previous": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&hl=en&gl=sg&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2mMHaMmdNpOGptQPvoG-qQ0&start=10&sa=N&ved=2ahUKEwjJ8qqbrOuMAxUTg4kEHb6AL9U4FBDx0wN6BAgFEAI",
+            "next": null,
+            "other_pages": {
+                "1": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&hl=en&gl=sg&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2mMHaMmdNpOGptQPvoG-qQ0&start=0&sa=N&ved=2ahUKEwjJ8qqbrOuMAxUTg4kEHb6AL9U4FBDy0wN6BAgFEAQ",
+                "2": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&hl=en&gl=sg&tbs=cdr:1,cd_min:02/01/2024,cd_max:02/28/2024&tbm=nws&ei=2mMHaMmdNpOGptQPvoG-qQ0&start=10&sa=N&ved=2ahUKEwjJ8qqbrOuMAxUTg4kEHb6AL9U4FBDy0wN6BAgFEAY"
+            }
+        },
+        "serpapi_pagination": {
+            "current": 3,
+            "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=10&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+            "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=10&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+            "other_pages": {
+                "1": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=0&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024",
+                "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=10&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A02%2F01%2F2024%2Ccd_max%3A02%2F28%2F2024"
+            }
+        }
+    }
+]

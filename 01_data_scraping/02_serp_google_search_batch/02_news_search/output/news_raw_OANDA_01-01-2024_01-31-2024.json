@@ -1,0 +1,206 @@
+[
+    {
+        "search_metadata": {
+            "id": "680763d36f27688bfeccc7e1",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/8debb07321673ec8/680763d36f27688bfeccc7e1.json",
+            "created_at": "2025-04-22 09:39:31 UTC",
+            "processed_at": "2025-04-22 09:39:31 UTC",
+            "google_url": "https://www.google.com/search?q=OANDA&oq=OANDA&hl=en&gl=sg&tbm=nws&tbs=cdr:1,cd_min:01/01/2024,cd_max:01/31/2024&start=0&sourceid=chrome&ie=UTF-8",
+            "raw_html_file": "https://serpapi.com/searches/8debb07321673ec8/680763d36f27688bfeccc7e1.html",
+            "total_time_taken": 0.3
+        },
+        "search_parameters": {
+            "engine": "google",
+            "q": "OANDA",
+            "google_domain": "google.com",
+            "hl": "en",
+            "gl": "sg",
+            "start": 0,
+            "device": "desktop",
+            "tbm": "nws",
+            "tbs": "cdr:1,cd_min:01/01/2024,cd_max:01/31/2024"
+        },
+        "search_information": {
+            "query_displayed": "OANDA",
+            "total_results": 1480,
+            "time_taken_displayed": 0.18,
+            "news_results_state": "Results for exact spelling"
+        },
+        "news_results": [
+            {
+                "position": 1,
+                "link": "https://fxnewsgroup.com/forex-news/retail-forex/oanda-launches-labs-trader-program/",
+                "title": "OANDA launches Labs Trader program",
+                "source": "FX News Group",
+                "date": "22 Jan 2024",
+                "snippet": "The OANDA Labs Trader program allows traders who pass an assessment to gain access to an OANDA Labs Trader account and share in the P&L they produce. OANDA's...",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c393daf99abc3f8f66b107df5295ab1862f.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c3977cf288b28cf765b041bb37ab184a7025e87cae5a8a23d71.jpeg"
+            },
+            {
+                "position": 2,
+                "link": "https://www.financemagnates.com/forex/oanda-launches-prop-trading-services-under-bvi-entity/",
+                "title": "OANDA Launches Prop Trading Services under BVI Entity",
+                "source": "Finance Magnates",
+                "date": "22 Jan 2024",
+                "snippet": "A Transparent Business Model ... OANDA, a popular brokerage brand in forex and contracts for differences (CFDs), has jumped into the proprietary trading business...",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c39f718f91d0cac1138f146a8bc8514a64f.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c3966ece7c17b4fefc71876ec628c1ef1f711c834913affb836.jpeg"
+            },
+            {
+                "position": 3,
+                "link": "https://www.prnewswire.com/in/news-releases/oanda-unveils-labs-trader-program-302040239.html",
+                "title": "OANDA unveils Labs Trader program",
+                "source": "PR Newswire",
+                "date": "22 Jan 2024",
+                "snippet": "PRNewswire/ -- OANDA Global Corporation today announced the launch of OANDA Labs Trader, a pioneering trading program centred around profit sharing that...",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c395f2dc2693d3aeb481599a082a5b7ccea.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c399d7ebb7e19ec072b90fe62d39239a043dc1b08f86131fe8a.jpeg"
+            },
+            {
+                "position": 4,
+                "link": "https://www.leaprate.com/forex/oanda-joins-the-prop-trading-industry-with-oanda-labs-trader/",
+                "title": "OANDA Joins the Prop Trading Industry With OANDA Labs Trader",
+                "source": "LeapRate",
+                "date": "22 Jan 2024",
+                "snippet": "OANDA Joins the Prop Trading Industry With OANDA Labs Trader ... OANDA, a well-known forex and contracts for differences (CFDs) brokerage, has ventured into the...",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c390361bb376178cd20da99b40f1d71ee12.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c395c2be519aa8e2871551098e84b32fdf46ac836ff608856da.jpeg"
+            },
+            {
+                "position": 5,
+                "link": "https://www.tradingview.com/news/financemagnates:7a5fd99d9094b:0-oanda-tms-announces-partnership-with-tradingview-in-poland/",
+                "title": "OANDA TMS Announces Partnership with TradingView in Poland",
+                "source": "TradingView",
+                "date": "11 Jan 2024",
+                "snippet": "OANDA TMS is the first Polish broker to partner with TradingView, the world's largest charting platform and social network for traders. The collaboration will...",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c39eb42e46379aa92c648d0f14bf5d51fb4.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c396288e05ee58ae81846dc386c5f6ac7a45aa8caeed6d15003.jpeg"
+            },
+            {
+                "position": 6,
+                "link": "https://www.marketpulse.com/forex/gbp/gbp-usd-volatile-after-uk-inflation-and-us-retail-sales-data/cerlam",
+                "title": "GBP/USD – Volatile after UK inflation and US retail sales data",
+                "source": "MarketPulse",
+                "date": "18 Jan 2024",
+                "snippet": "OANDA Senior Market Analyst Craig Erlam gives his analysis of GBPUSD in light of the UK inflation and US retail sales releases.",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c39de5868ec9c09317947afe1f598d5fd83.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c391e90f13243e735dd8201548be6672e9fe207481c865530e2.jpeg"
+            },
+            {
+                "position": 7,
+                "link": "https://www.financemagnates.com/forex/regulated-brokers-are-expanding-to-prop-trading-but-keeping-it-offshore/",
+                "title": "OANDA Is Not Alone: Regulated Brokers Enter Prop Trading, but Keeping It Offshore",
+                "source": "Finance Magnates",
+                "date": "24 Jan 2024",
+                "snippet": "OANDA is the latest one to launch prop trading under the brand, OANDA Labs Trader. OANDA, Axi, and Hantec Markets are a few names offering prop trading...",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c39d748a93a05b5e642ebbfa6a304d39982.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c39a92cfae10bba576c5b845448efb012a0c82e17b2afd27ee2.jpeg"
+            },
+            {
+                "position": 8,
+                "link": "https://www.forexfactory.com/news/1262926-oanda-unveils-labs-trader-program",
+                "title": "OANDA unveils Labs Trader program",
+                "source": "Forex Factory",
+                "date": "22 Jan 2024",
+                "snippet": "OANDA unveils Labs Trader program ... It's possible that other brokers will follow suit. ... FF Sister Sites: ... Forex Factory® is a brand of Fair Economy, Inc.",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c396b4a7e54c9dde3521d5e06314633d5e3.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c3942c5f450c99f9883212db88b1bfccd31dd0420085d241a13.jpeg"
+            },
+            {
+                "position": 9,
+                "link": "https://dailyhodl.com/2024/01/03/oandas-acquisition-of-coinpass-pioneering-crypto-trading/",
+                "title": "OANDA’s Acquisition of Coinpass – Pioneering Crypto Trading",
+                "source": "The Daily Hodl",
+                "date": "3 Jan 2024",
+                "snippet": "OANDA, a renowned global leader in online multi-asset trading services and currency data, has announced its acquisition of Coinpass.",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c39192c8ab934e109c4c88be435a443d9a3.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c390be223de770278e03aa29300b14c948f0cf503771e67525f.png"
+            },
+            {
+                "position": 10,
+                "link": "https://www.tradingview.com/chart/XAUUSD/5QIJoce9-DXY-US-Dollar-Index-Everything-You-Need-to-Know/",
+                "title": "DXY - US Dollar Index. Everything You Need to Know for OANDA:XAUUSD by VasilyTrader",
+                "source": "TradingView",
+                "date": "20 Jan 2024",
+                "snippet": "Dollar Index (DXY) is a measure of the value of the United States Dollar against a weighted basket of major currencies.",
+                "favicon": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c396541a5bb68acf48720338525a991d27e.png",
+                "thumbnail": "https://serpapi.com/searches/680763d36f27688bfeccc7e1/images/0fed63e44aae3c3966a2c2ceca82c4f82e9ec734c4558523116653c6e4d17956.jpeg"
+            }
+        ],
+        "pagination": {
+            "current": 1,
+            "next": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&gl=sg&hl=en&tbs=cdr:1,cd_min:01/01/2024,cd_max:01/31/2024&tbm=nws&ei=02MHaOyMC9ys5NoPhPuuyQE&start=10&sa=N&ved=2ahUKEwiswtSXrOuMAxVcFlkFHYS9KxkQ8NMDegQIBRAG",
+            "other_pages": {
+                "2": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&gl=sg&hl=en&tbs=cdr:1,cd_min:01/01/2024,cd_max:01/31/2024&tbm=nws&ei=02MHaOyMC9ys5NoPhPuuyQE&start=10&sa=N&ved=2ahUKEwiswtSXrOuMAxVcFlkFHYS9KxkQ8tMDegQIBRAE"
+            }
+        },
+        "serpapi_pagination": {
+            "current": 1,
+            "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=10&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A01%2F01%2F2024%2Ccd_max%3A01%2F31%2F2024",
+            "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=10&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A01%2F01%2F2024%2Ccd_max%3A01%2F31%2F2024",
+            "other_pages": {
+                "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=10&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A01%2F01%2F2024%2Ccd_max%3A01%2F31%2F2024"
+            }
+        }
+    },
+    {
+        "search_metadata": {
+            "id": "680763d301b5f76020227079",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/4fde305e20ff3b28/680763d301b5f76020227079.json",
+            "created_at": "2025-04-22 09:39:31 UTC",
+            "processed_at": "2025-04-22 09:39:31 UTC",
+            "google_url": "https://www.google.com/search?q=OANDA&oq=OANDA&hl=en&gl=sg&tbm=nws&tbs=cdr:1,cd_min:01/01/2024,cd_max:01/31/2024&start=10&sourceid=chrome&ie=UTF-8",
+            "raw_html_file": "https://serpapi.com/searches/4fde305e20ff3b28/680763d301b5f76020227079.html",
+            "total_time_taken": 2.48
+        },
+        "search_parameters": {
+            "engine": "google",
+            "q": "OANDA",
+            "google_domain": "google.com",
+            "hl": "en",
+            "gl": "sg",
+            "start": 10,
+            "device": "desktop",
+            "tbm": "nws",
+            "tbs": "cdr:1,cd_min:01/01/2024,cd_max:01/31/2024"
+        },
+        "search_information": {
+            "query_displayed": "OANDA",
+            "total_results": 12,
+            "page_number": 2,
+            "time_taken_displayed": 0.16,
+            "news_results_state": "Results for exact spelling"
+        },
+        "news_results": [
+            {
+                "position": 1,
+                "link": "https://www.dailyforex.com/forex-articles/metatrader-4-vs-tradingview-comparison/206534",
+                "title": "TradingView vs MetaTrader - Which Platform is Better?",
+                "source": "DailyForex",
+                "date": "16 Jan 2024",
+                "snippet": "MetaTrader 4 remains the industry leader for algorithmic trading, and TradingView is the market leader for social traders featuring modern charting software.",
+                "favicon": "https://serpapi.com/searches/680763d301b5f76020227079/images/5715522a989ba2dbd8690e7d496bb979cccd70b45c967f2e.png",
+                "thumbnail": "https://serpapi.com/searches/680763d301b5f76020227079/images/5715522a989ba2db0e75306b8e52b1f08405fdd3192f53b013107be875e8d074.jpeg"
+            }
+        ],
+        "pagination": {
+            "current": 2,
+            "previous": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&hl=en&gl=sg&tbs=cdr:1,cd_min:01/01/2024,cd_max:01/31/2024&tbm=nws&ei=1mMHaN_xCqrhwN4PwPWdkQQ&start=0&sa=N&ved=2ahUKEwjftIuZrOuMAxWqMNAFHcB6J0I4ChDx0wN6BAgFEAI",
+            "next": null,
+            "other_pages": {
+                "1": "https://www.google.com/search?q=OANDA&sca_esv=0d5b412c1151c0c6&hl=en&gl=sg&tbs=cdr:1,cd_min:01/01/2024,cd_max:01/31/2024&tbm=nws&ei=1mMHaN_xCqrhwN4PwPWdkQQ&start=0&sa=N&ved=2ahUKEwjftIuZrOuMAxWqMNAFHcB6J0I4ChDy0wN6BAgFEAQ"
+            }
+        },
+        "serpapi_pagination": {
+            "current": 2,
+            "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=0&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A01%2F01%2F2024%2Ccd_max%3A01%2F31%2F2024",
+            "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=0&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A01%2F01%2F2024%2Ccd_max%3A01%2F31%2F2024",
+            "other_pages": {
+                "1": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sg&google_domain=google.com&hl=en&q=OANDA&start=0&tbm=nws&tbs=cdr%3A1%2Ccd_min%3A01%2F01%2F2024%2Ccd_max%3A01%2F31%2F2024"
+            }
+        }
+    }
+]
